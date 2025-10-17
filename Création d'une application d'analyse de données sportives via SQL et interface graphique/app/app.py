@@ -16,7 +16,7 @@ DB_CONFIG = {
     'port': os.getenv('DB_PORT', '5432'),
     'database': os.getenv('DB_NAME', 'postgres'),
     'user': os.getenv('DB_USER', 'admin'),
-    'password': os.getenv('DB_PASSWORD', 'abEEE!%!^!!11')
+    'password': os.getenv('DB_PASSWORD', 'blablabla')
 }
 
 @st.cache_resource

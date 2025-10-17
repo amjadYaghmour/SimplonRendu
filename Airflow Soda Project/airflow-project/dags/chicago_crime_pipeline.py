@@ -31,7 +31,7 @@ DB_CONFIG = {
     'port': 5432,
     'database': 'postgres',
     'user': 'admin',
-    'password': 'abEEE!%!^!!11'
+    'password': 'blablabla'
 }
 
 # ========== DATA QUALITY STORAGE ==========

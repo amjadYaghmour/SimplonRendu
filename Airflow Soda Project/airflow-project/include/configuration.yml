@@ -3,6 +3,6 @@ data_source postgres:
   host: host.docker.internal
   port: '5432'
   username: admin
-  password: abEEE!%!^!!11
+  password: blablabla
   database: postgres
 
