@@ -1,0 +1,4 @@
+checks for temp_raw_data:
+  - missing_count(id) = 0
+  - duplicate_count(id) = 0
+  - missing_count(case_number) = 0

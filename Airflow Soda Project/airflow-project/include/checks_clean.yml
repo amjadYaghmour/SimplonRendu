@@ -1,0 +1,7 @@
+checks for temp_clean_data:
+  - row_count > 0
+  - missing_count(id) = 0
+  - duplicate_count(id) = 0
+  - missing_count(primary_type) = 0
+  - values_percentage(arrest, True) > 5
+  - values_percentage(domestic, True) > 1
