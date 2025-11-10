@@ -1,113 +1,113 @@
-# Data Market 2 - Star Schema Data Warehouse
+# Data Market 2 - Entrepôt de Données en Schéma Étoile
 
-**Student:** Angelo Yaghmour  
-**Project:** Data Warehouse Implementation using Star Schema  
-**Database:** PostgreSQL
+**Étudiant :** Angelo Yaghmour  
+**Projet :** Implémentation d'un Entrepôt de Données en Schéma Étoile  
+**Base de Données :** PostgreSQL
 
 ---
 
-## 📋 Project Overview
+## 📋 Aperçu du Projet
 
-This project implements a **star schema data warehouse** for analyzing marketing leads and closed deals. The warehouse consists of:
+Ce projet implémente un **entrepôt de données en schéma étoile** pour analyser les leads marketing et les ventes conclues. L'entrepôt se compose de :
 
-- **1 Fact Table:** `fact_closed_deals` (central transaction table)
-- **4 Dimension Tables:** `dim_lead`, `dim_seller`, `dim_sdr`, `dim_sr`, `dim_date`
+- **1 Table de Faits :** `fact_closed_deals` (table centrale de transactions)
+- **5 Tables de Dimensions :** `dim_lead`, `dim_seller`, `dim_sdr`, `dim_sr`, `dim_date`
 
-## 📂 Project Structure
+## 📂 Structure du Projet
 
 ```
 Data Market2/
 ├── data/
 │   └── clean/
-│       ├── leads_clean.csv              # Source: leads data
-│       ├── closed_deals_clean.csv       # Source: deals data
-│       ├── dim_lead.csv                 # Generated dimension
-│       ├── dim_seller.csv               # Generated dimension
-│       ├── dim_sdr.csv                  # Generated dimension
-│       ├── dim_sr.csv                   # Generated dimension
-│       └── dim_date.csv                 # Generated dimension
+│       ├── leads_clean.csv              # Source : données des leads
+│       ├── closed_deals_clean.csv       # Source : données des ventes
+│       ├── dim_lead.csv                 # Dimension générée
+│       ├── dim_seller.csv               # Dimension générée
+│       ├── dim_sdr.csv                  # Dimension générée
+│       ├── dim_sr.csv                   # Dimension générée
+│       └── dim_date.csv                 # Dimension générée
 ├── scripts/
-│   ├── generate_dimensions.py           # Generate all dimension CSVs
-│   ├── create_tables.sql                # SQL DDL for star schema
-│   └── load_to_db.py                    # ETL script to load data
+│   ├── generate_dimensions.py           # Génère tous les CSV de dimensions
+│   ├── create_tables.sql                # DDL SQL pour le schéma étoile
+│   └── load_to_db.py                    # Script ETL pour charger les données
 ├── models/
-│   ├── ERD.drawio                       # Entity-Relationship Diagram
-│   └── data_dictionary.xlsx             # Data dictionary
-├── E3_Schema_Technique_Angelo_Yaghmour.pdf
-├── E4_Rapport_Technique_Angelo_Yaghmour.pdf
+│   ├── ERD.txt                          # Diagramme Entité-Relations
+│   └── Star_Schema_Diagram.png          # Diagramme visuel du schéma étoile
+├── E3_Schema_Technique_Angelo_Yaghmour.docx
+├── E4_Rapport_Technique_Angelo_Yaghmour.docx
 └── README.md
 ```
 
-## 🚀 Quick Start
+## 🚀 Démarrage Rapide
 
-### Prerequisites
+### Prérequis
 
 - PostgreSQL 12+
 - Python 3.8+
 - pip
 
-### Installation Steps
+### Étapes d'Installation
 
-**1. Install Python dependencies:**
+**1. Installer les dépendances Python :**
 
 ```bash
 pip install pandas psycopg2-binary
 ```
 
-**2. Create PostgreSQL database:**
+**2. Créer la base de données PostgreSQL :**
 
 ```bash
-# Connect to PostgreSQL
+# Se connecter à PostgreSQL
 psql -U postgres
 
-# Create database
+# Créer la base de données
 CREATE DATABASE datamarket2;
 \q
 ```
 
-**3. Set environment variables (optional):**
+**3. Définir les variables d'environnement (optionnel) :**
 
 ```bash
 export DB_HOST=localhost
 export DB_PORT=5432
 export DB_NAME=datamarket2
 export DB_USER=postgres
-export DB_PASSWORD=your_password
+export DB_PASSWORD=votre_mot_de_passe
 ```
 
-**4. Generate dimension CSV files:**
+**4. Générer les fichiers CSV de dimensions :**
 
 ```bash
 python scripts/generate_dimensions.py
 ```
 
-This creates:
+Ceci crée :
 - `dim_lead.csv`
 - `dim_seller.csv`
 - `dim_sdr.csv`
 - `dim_sr.csv`
 - `dim_date.csv`
 
-**5. Create database schema:**
+**5. Créer le schéma de base de données :**
 
 ```bash
 psql -d datamarket2 -f scripts/create_tables.sql
 ```
 
-**6. Load data into PostgreSQL:**
+**6. Charger les données dans PostgreSQL :**
 
 ```bash
 python scripts/load_to_db.py
 ```
 
-### Verify Installation
+### Vérifier l'Installation
 
 ```bash
 psql -d datamarket2
 ```
 
 ```sql
--- Check row counts
+-- Vérifier le nombre de lignes
 SELECT 'dim_lead' as table_name, COUNT(*) FROM dim_lead
 UNION ALL
 SELECT 'dim_seller', COUNT(*) FROM dim_seller
@@ -121,7 +121,7 @@ UNION ALL
 SELECT 'fact_closed_deals', COUNT(*) FROM fact_closed_deals;
 ```
 
-## 📊 Star Schema Structure
+## 📊 Structure du Schéma Étoile
 
 ```
            ┌───────────┐
@@ -143,58 +143,58 @@ SELECT 'fact_closed_deals', COUNT(*) FROM fact_closed_deals;
     └─────────┘          └─────────┘
 ```
 
-## 📈 Example Analytical Queries
+## 📈 Exemples de Requêtes Analytiques
 
-### 1. Closed Deals by Business Segment
+### 1. Ventes Conclues par Segment d'Activité
 
 ```sql
 SELECT 
     s.business_segment,
-    COUNT(*) as total_deals,
-    ROUND(AVG(f.declared_monthly_revenue), 2) as avg_revenue
+    COUNT(*) as total_ventes,
+    ROUND(AVG(f.declared_monthly_revenue), 2) as revenu_moyen
 FROM fact_closed_deals f
 JOIN dim_seller s ON f.seller_id = s.seller_id
 GROUP BY s.business_segment
-ORDER BY total_deals DESC;
+ORDER BY total_ventes DESC;
 ```
 
-### 2. Conversion Rate by Lead Origin
+### 2. Taux de Conversion par Origine du Lead
 
 ```sql
 SELECT 
     l.origin,
     COUNT(DISTINCT l.mql_id) as total_leads,
-    COUNT(DISTINCT f.mql_id) as closed_deals,
-    ROUND(100.0 * COUNT(DISTINCT f.mql_id) / COUNT(DISTINCT l.mql_id), 2) as conversion_rate
+    COUNT(DISTINCT f.mql_id) as ventes_conclues,
+    ROUND(100.0 * COUNT(DISTINCT f.mql_id) / COUNT(DISTINCT l.mql_id), 2) as taux_conversion
 FROM dim_lead l
 LEFT JOIN fact_closed_deals f ON l.mql_id = f.mql_id
 GROUP BY l.origin
-ORDER BY conversion_rate DESC;
+ORDER BY taux_conversion DESC;
 ```
 
-### 3. Sales Performance by Team
+### 3. Performance Commerciale par Équipe
 
 ```sql
 SELECT 
     sr.sr_team,
     sr.sr_experience,
-    COUNT(*) as deals_closed,
-    SUM(f.declared_monthly_revenue) as total_revenue
+    COUNT(*) as ventes_conclues,
+    SUM(f.declared_monthly_revenue) as revenu_total
 FROM fact_closed_deals f
 JOIN dim_sr sr ON f.sr_id = sr.sr_id
 GROUP BY sr.sr_team, sr.sr_experience
-ORDER BY total_revenue DESC;
+ORDER BY revenu_total DESC;
 ```
 
-### 4. Monthly Trend Analysis
+### 4. Analyse des Tendances Mensuelles
 
 ```sql
 SELECT 
     d.year,
     d.month,
     d.month_name,
-    COUNT(*) as deals_count,
-    SUM(f.declared_monthly_revenue) as revenue
+    COUNT(*) as nombre_ventes,
+    SUM(f.declared_monthly_revenue) as revenu
 FROM fact_closed_deals f
 JOIN dim_date d ON f.won_date_id = d.date_id
 GROUP BY d.year, d.month, d.month_name
@@ -203,21 +203,21 @@ ORDER BY d.year, d.month;
 
 ## 🔧 Maintenance
 
-### Refresh Data
+### Actualiser les Données
 
-To update the warehouse with new data:
+Pour mettre à jour l'entrepôt avec de nouvelles données :
 
 ```bash
-# 1. Update source CSVs (leads_clean.csv, closed_deals_clean.csv)
-# 2. Regenerate dimensions
+# 1. Mettre à jour les CSV sources (leads_clean.csv, closed_deals_clean.csv)
+# 2. Régénérer les dimensions
 python scripts/generate_dimensions.py
 
-# 3. Truncate and reload (or use UPSERT logic)
+# 3. Vider et recharger (ou utiliser la logique UPSERT)
 psql -d datamarket2 -c "TRUNCATE fact_closed_deals CASCADE;"
 python scripts/load_to_db.py
 ```
 
-### Backup Database
+### Sauvegarder la Base de Données
 
 ```bash
 pg_dump -d datamarket2 > backup_$(date +%Y%m%d).sql
@@ -225,32 +225,24 @@ pg_dump -d datamarket2 > backup_$(date +%Y%m%d).sql
 
 ## 📚 Documentation
 
-- **E3_Schema_Technique_Angelo_Yaghmour.pdf:** Technical schema design, ERD, data dictionary
-- **E4_Rapport_Technique_Angelo_Yaghmour.pdf:** ETL implementation and technical documentation
+- **E3_Schema_Technique_Angelo_Yaghmour.docx :** Conception du schéma technique, ERD, dictionnaire de données
+- **E4_Rapport_Technique_Angelo_Yaghmour.docx :** Implémentation ETL et documentation technique
+- **Star_Schema_Diagram.png :** Diagramme visuel du schéma en étoile
 
-## 🏗️ Technical Stack
+## 🏗️ Stack Technique
 
-| Component | Technology | Purpose |
-|-----------|-----------|---------|
-| Database | PostgreSQL | Data storage |
-| ETL Language | Python 3 | Data processing |
-| Data Library | Pandas | CSV manipulation |
-| DB Connector | psycopg2 | PostgreSQL connectivity |
+| Composant | Technologie | Objectif |
+|-----------|-------------|----------|
+| Base de Données | PostgreSQL | Stockage des données |
+| Langage ETL | Python 3 | Traitement des données |
+| Bibliothèque Data | Pandas | Manipulation des CSV |
+| Connecteur DB | psycopg2 | Connectivité PostgreSQL |
 
-## ✅ Key Features
+## ✅ Caractéristiques Clés
 
-- ⭐ **Star schema** design for optimal analytics
-- 🔗 **Referential integrity** via foreign keys
-- 📊 **Date dimension** for time-based analysis
-- 🎲 **Synthetic attributes** for enriched dimensions
-- 🔄 **Reproducible ETL** pipeline
-- 📝 **Comprehensive documentation**
-
-## 📞 Support
-
-For questions about this project, contact **Angelo Yaghmour**.
-
----
-
-**License:** Simplon Data Market Training Program
-
+- ⭐ **Schéma en étoile** optimisé pour l'analyse
+- 🔗 **Intégrité référentielle** via clés étrangères
+- 📊 **Dimension date** pour l'analyse temporelle
+- 🎲 **Attributs synthétiques** pour enrichir les dimensions
+- 🔄 **Pipeline ETL reproductible**
+- 📝 **Documentation complète**
