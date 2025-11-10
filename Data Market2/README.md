@@ -1,6 +1,5 @@
 # Data Market 2 - Entrepôt de Données en Schéma Étoile
-
-**Étudiant :** Angelo Yaghmour  
+ 
 **Projet :** Implémentation d'un Entrepôt de Données en Schéma Étoile  
 **Base de Données :** PostgreSQL
 
