@@ -1,0 +1,105 @@
+================================================================================
+                   DATA MARKET 2 - SCHÉMA EN ÉTOILE ERD
+                    Diagramme Entité-Relations (ERD)
+================================================================================
+
+                           ┌──────────────────┐
+                           │    dim_date      │
+                           ├──────────────────┤
+                           │ PK date_id       │
+                           │    full_date     │
+                           │    year          │
+                           │    quarter       │
+                           │    month         │
+                           │    month_name    │
+                           │    day           │
+                           │    day_of_week   │
+                           │    week_of_year  │
+                           └────────┬─────────┘
+                                    │
+                                    │ 1
+                                    │
+                   ┌────────────────┼────────────────┐
+                   │                │                │
+                   │ N              │ N              │
+                   │                │                │
+┌──────────────────▼──┐      ┌─────▼──────────────────▼──┐      ┌──────────────────┐
+│    dim_lead         │      │  fact_closed_deals          │      │   dim_seller     │
+├─────────────────────┤      ├─────────────────────────────┤      ├──────────────────┤
+│ PK mql_id           │◄─────┤ PK deal_id (SERIAL)         ├─────►│ PK seller_id     │
+│    first_contact_   │ 1   N│ FK mql_id                   │N   1 │    seller_name   │
+│      date           │      │ FK seller_id                │      │    region        │
+│    landing_page_id  │      │ FK sdr_id                   │      │    city          │
+│    origin           │      │ FK sr_id                    │      │    business_     │
+└─────────────────────┘      │ FK contact_date_id          │      │      segment     │
+                             │ FK won_date_id              │      └──────────────────┘
+┌──────────────────┐         │                             │      ┌──────────────────┐
+│    dim_sdr       │         │ MESURES :                   │      │    dim_sr        │
+├──────────────────┤         │   lead_type                 │      ├──────────────────┤
+│ PK sdr_id        │◄────────┤   lead_behaviour_profile    ├─────►│ PK sr_id         │
+│    sdr_name      │ 1      N│   business_segment          │N   1 │    sr_name       │
+│    sdr_team      │         │   business_type             │      │    sr_team       │
+│    sdr_experience│         │   declared_product_         │      │    sr_experience │
+└──────────────────┘         │     catalog_size            │      └──────────────────┘
+                             │   declared_monthly_revenue  │
+                             └─────────────────────────────┘
+
+================================================================================
+RELATIONS :
+================================================================================
+
+fact_closed_deals  N:1  dim_lead     (Plusieurs ventes peuvent référencer un lead)
+fact_closed_deals  N:1  dim_seller   (Plusieurs ventes peuvent référencer un vendeur)
+fact_closed_deals  N:1  dim_sdr      (Plusieurs ventes peuvent référencer un SDR)
+fact_closed_deals  N:1  dim_sr       (Plusieurs ventes peuvent référencer un SR)
+fact_closed_deals  N:1  dim_date     (Plusieurs ventes peuvent survenir à une date)
+
+================================================================================
+CLÉS PRIMAIRES (PK) :
+================================================================================
+
+dim_lead.mql_id               - ID du Lead Qualifié Marketing
+dim_seller.seller_id          - ID du Vendeur/Partenaire
+dim_sdr.sdr_id                - ID du Représentant Développement Commercial
+dim_sr.sr_id                  - ID du Représentant Commercial
+dim_date.date_id              - ID de Date (format: YYYYMMDD)
+fact_closed_deals.deal_id     - ID de vente auto-généré
+
+================================================================================
+CLÉS ÉTRANGÈRES (FK) :
+================================================================================
+
+fact_closed_deals.mql_id             → dim_lead.mql_id
+fact_closed_deals.seller_id          → dim_seller.seller_id
+fact_closed_deals.sdr_id             → dim_sdr.sdr_id
+fact_closed_deals.sr_id              → dim_sr.sr_id
+fact_closed_deals.contact_date_id    → dim_date.date_id
+fact_closed_deals.won_date_id        → dim_date.date_id
+
+================================================================================
+INDEX :
+================================================================================
+
+TABLES DE DIMENSIONS :
+- dim_lead: idx_dim_lead_origin, idx_dim_lead_date
+- dim_seller: idx_dim_seller_region, idx_dim_seller_segment
+- dim_sdr: idx_dim_sdr_team
+- dim_sr: idx_dim_sr_team
+- dim_date: idx_dim_date_full_date, idx_dim_date_year_month
+
+TABLE DE FAITS :
+- fact_closed_deals: index sur toutes les clés étrangères + business_segment
+
+================================================================================
+JUSTIFICATION DE LA CONCEPTION :
+================================================================================
+
+✓ Schéma en étoile choisi pour des performances de requête optimales
+✓ Dimensions dénormalisées pour la simplicité
+✓ La table de faits contient des métriques mesurables (revenue, catalog size)
+✓ La dimension date permet l'analyse temporelle
+✓ Les clés étrangères assurent l'intégrité référentielle
+✓ Les index optimisent les modèles de requêtes courants
+
+================================================================================
+

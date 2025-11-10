@@ -1,0 +1,843 @@
+seller_id,seller_name,region,city,business_segment,seller_type,registration_date
+2c43fb513632d29b3b58df74816f1b06,Marcos Nascimento,Southeast,São Paulo,pet,Individual,2017-04-05
+bbb7d7893a450660432ea6652310ebb7,Amanda Gomes,Southeast,São Paulo,car_accessories,Individual,2017-01-03
+612170e34b97004b3ba37eae81836b4c,Larissa Mendes,South,Porto Alegre,home_appliances,Individual,2017-09-07
+21e1781e36faf92725dde4730a88ca0f,Pedro Martins,Central-West,Cuiabá,food_drink,Enterprise,2017-05-26
+ed8cb7b190ceb6067227478e48cf8dde,Carolina Gomes,Southeast,Rio de Janeiro,home_appliances,Company,2017-05-05
+1c742ac33582852aaf3bcfbf5893abcf,João Oliveira,South,Florianópolis,health_beauty,Company,2017-02-12
+92d7568ad0c5c76fd7d341b2d46f24d6,Daniel Santos,Northeast,Fortaleza,computers,Enterprise,2017-08-18
+44ed138eca6214d572ce1d813fb0049b,Maria Alves,Southeast,Campinas,health_beauty,Company,2017-11-20
+0b28859cd04d23edefee9c591fb03cd8,Carolina Oliveira,Northeast,Recife,household_utilities,Individual,2017-11-08
+87d73636a3acf123e842bb890a4db036,Gustavo Almeida,Northeast,Salvador,household_utilities,Individual,2017-07-09
+f7a0d94e966c5665355a182d5b199fcf,Ricardo Fernandes,North,Porto Velho,construction_tools_house_garden,Company,2017-04-22
+b566ab0ef88016e00422755e305103c6,Rodrigo Costa,Northeast,Salvador,construction_tools_house_garden,Enterprise,2017-12-08
+2d2322d842118867781fc737e96d59a1,Mariana Nascimento,South,Joinville,household_utilities,Enterprise,2017-12-18
+e7012030d0fdd1d3ca504f6de7909c35,Vanessa Santos,South,Florianópolis,toys,Individual,2017-01-26
+9e7c5f4d7770eab65738cca38f9efccf,Patricia Oliveira,Northeast,Natal,sports_leisure,Individual,2017-10-23
+6a6b1614baaaf766293c17d8cb8c5a9d,Beatriz Rocha,Northeast,Recife,stationery,Company,2017-11-15
+df91910b6a03bb2e3358fa6a35e32f6f,Fernanda Almeida,South,Florianópolis,food_drink,Enterprise,2017-09-18
+92d46311e4fa7583d14c351fdc881af6,Renata Monteiro,Northeast,Natal,food_supplement,Company,2017-06-08
+249f0e9905a6e06ad6c6bea7547ab9f6,Maria Santos,South,Joinville,home_decor,Individual,2017-03-21
+b494891378bd8f4560abe576c52deacd,Rodrigo Oliveira,South,Joinville,health_beauty,Company,2017-07-20
+8c45b4bc4b5c1e2a4e789b4466a39b77,Felipe Silva,North,Porto Velho,bed_bath_table,Enterprise,2017-12-04
+49f6ca9231352dedda1ad1176ce70531,Isabela Araújo,Central-West,Campo Grande,health_beauty,Individual,2017-05-14
+7d13fca15225358621be4086e1eb0964,Ana Nascimento,South,Joinville,watches,Enterprise,2017-03-17
+efa89b428cbc422ba9313b4fc6feafc7,Vanessa Ribeiro,Southeast,Belo Horizonte,fashion_accessories,Enterprise,2017-04-05
+cb3666965a560e723403683bd378a5f7,Felipe Ribeiro,Northeast,Recife,jewerly,Individual,2017-10-11
+e819bcfade7b5d88a27325eb6cfd62c5,João Fernandes,North,Manaus,home_decor,Company,2017-04-02
+70c27847eca8195c983ed7e798c56743,Maria Rocha,South,Curitiba,pet,Individual,2017-09-25
+556a6409838156ea299c9d1f9e2dde43,André Rocha,South,Porto Alegre,household_utilities,Enterprise,2017-03-09
+a4fc6eadaff1576af888509a53420f6a,Juliana Alves,Central-West,Cuiabá,computers,Enterprise,2017-12-07
+0975b0dd18febd1008391fa53dff0891,André Fernandes,Northeast,Natal,party,Company,2017-09-15
+4fae87d32467e18eb46e4a76a0a0b9ce,Pedro Oliveira,Southeast,Rio de Janeiro,small_appliances,Company,2017-01-19
+3525be8392a4fa3274c459bcfee41eef,Amanda Almeida,Central-West,Goiânia,food_supplement,Individual,2017-02-23
+8b181ee5518df84f18f4e1a43fe07923,Maria Santos,Southeast,Rio de Janeiro,health_beauty,Company,2017-02-17
+d594982fd877af63ace38ea1fca27c76,André Rocha,South,Florianópolis,audio_video_electronics,Individual,2017-09-05
+2f1e89e231b096f4ff1f55dfe8607a7b,Pedro Rocha,Central-West,Cuiabá,computers,Company,2017-04-04
+90269579385b838ce9bd577dcec278a4,Rafael Gomes,Southeast,Campinas,pet,Company,2017-08-28
+398cb257329ef7af7f1943a8974a3cbc,Carlos Carvalho,Southeast,São Paulo,food_drink,Enterprise,2017-06-26
+d65f74c704563bcb8baa915fbf8cfa1e,Juliana Rodrigues,Southeast,Rio de Janeiro,health_beauty,Enterprise,2017-08-05
+26e2c91ef821e1ff8985f408788fe35b,Patricia Martins,North,Belém,bed_bath_table,Individual,2017-02-15
+dedcab67899479e4ea5dcc4eba47f587,Carlos Alves,Central-West,Brasília,car_accessories,Individual,2017-02-25
+ca4b77513ac2040591b0d8fae6958380,Bruno Rocha,South,Porto Alegre,health_beauty,Company,2017-04-28
+cee3c487c56d29554a22d112af618301,Ricardo Carvalho,North,Manaus,other,Individual,2017-07-09
+ae9d6bb89361dff26edbccc7e1c2911d,Bruno Alves,North,Porto Velho,fashion_accessories,Enterprise,2017-12-16
+da3eab58892c04039f4cd5ecb09ae260,Lucas Rodrigues,South,Porto Alegre,home_decor,Individual,2017-10-24
+6e4a902d1054e4e17aa6eab87fac1c75,Marcos Araújo,Central-West,Brasília,audio_video_electronics,Individual,2017-01-19
+2d42ebcda99fd55f6f4bc2f1ca035d50,Carlos Ribeiro,North,Belém,home_decor,Individual,2017-03-03
+04843805947f0fc584fc1969b6e50fe7,André Almeida,Central-West,Brasília,home_decor,Company,2017-02-19
+d9d057968270cdb30c14cba606d5dc90,Rodrigo Oliveira,South,Curitiba,car_accessories,Company,2017-11-19
+d4dcd3a31f5f19aea2f258a568517a4f,Eduardo Nascimento,Central-West,Campo Grande,food_drink,Individual,2017-11-23
+28760737b4b82d4479ddff8db5e9f71f,Patricia Carvalho,Northeast,Recife,pet,Individual,2017-11-21
+0dccb6973ef48a00fbcccfe907181ab0,Camila Oliveira,Northeast,Natal,food_supplement,Individual,2017-08-20
+751e274377499a8503fd6243ad9c56f6,Maria Alves,Central-West,Brasília,audio_video_electronics,Individual,2017-09-09
+93a55b2252867fd7df54c78cbd5c6d95,Renata Oliveira,South,Florianópolis,construction_tools_house_garden,Individual,2017-06-10
+1185ae3e5ac0463c854dad54fc8fc9e1,Vanessa Alves,South,Joinville,bags_backpacks,Enterprise,2017-05-20
+2646baaf662d4d92ac48f047e35db92d,André Alves,Central-West,Brasília,construction_tools_house_garden,Company,2017-11-04
+e433f5fd4050e3352b5d83522b7fe24b,João Souza,South,Florianópolis,construction_tools_house_garden,Enterprise,2017-09-05
+5cc5fe3c6e303fb7656ee7b0ca21ed58,Rodrigo Rodrigues,Northeast,Fortaleza,jewerly,Enterprise,2017-06-07
+dc64d75cc406bb0697be983831430e60,Patricia Santos,Northeast,Natal,audio_video_electronics,Individual,2017-11-14
+08d1c9478fb0d7d7fcac9c0da4e82fc7,Ana Araújo,Northeast,Salvador,home_decor,Individual,2017-11-09
+5181ea7b0d346ed14c5c07f0ff22b2b4,Felipe Gomes,South,Joinville,toys,Enterprise,2017-01-04
+ee2fbacc2fc3794e656cc4d933d59ce7,Felipe Santos,Southeast,Rio de Janeiro,small_appliances,Company,2017-10-18
+7fc87cc3e89b3d1d5cabdca32f8485aa,Fernanda Santos,South,Joinville,home_office_furniture,Company,2017-06-26
+eba08391609dfda5c016fdd264f9383b,Juliana Almeida,Southeast,Belo Horizonte,home_decor,Enterprise,2017-02-12
+8b3317388df29d5fa94360a486ad3356,Rodrigo Pereira,Central-West,Cuiabá,car_accessories,Individual,2017-03-26
+134285d1f41da5c13a756ee8142c8a4e,Ana Costa,South,Joinville,car_accessories,Enterprise,2017-06-26
+e9e446d01bd10a97a8ffcfc4a3a20cb2,Patricia Costa,North,Belém,health_beauty,Enterprise,2017-02-13
+6061155addc1e54b4cfb51c1c2a32ad8,Pedro Rodrigues,Southeast,Campinas,pet,Company,2017-06-10
+bba8d0c234a52b87b3957037a215d1a4,Ana Rodrigues,South,Porto Alegre,home_decor,Company,2017-06-09
+044668ccd5316b12a7cf0d54a156e3e9,Rafael Ribeiro,Southeast,Belo Horizonte,food_drink,Company,2017-11-27
+fc813dd7e04b8a1c9c10e8e9c10cd5f9,Ana Souza,Central-West,Campo Grande,music_instruments,Company,2017-03-19
+922f6795c9e65f2485d4e63af76586ff,João Mendes,Northeast,Salvador,bed_bath_table,Company,2017-06-24
+224167f6e956da2f71c0e8dbdaa8bbf0,Rodrigo Ribeiro,Northeast,Natal,computers,Individual,2017-07-19
+30a81d8cf85fb2ada1b1b094c9583a95,Carlos Gomes,South,Florianópolis,pet,Individual,2017-09-26
+7e417525a6ce49b708fd384e580fe3c4,Rafael Gomes,Central-West,Goiânia,home_decor,Individual,2017-11-11
+b6cac2bb2d83cae903e336e6a993c795,André Souza,Central-West,Campo Grande,car_accessories,Enterprise,2017-05-17
+0ddefe3c7a032b91f4e25b9c3a08fca1,Camila Carvalho,Northeast,Natal,household_utilities,Enterprise,2017-05-18
+45dfe11016c782d99a19f93dd34c300d,Bruno Carvalho,South,Porto Alegre,car_accessories,Enterprise,2017-12-06
+6f835fd4be26989b1b064399da346143,Mariana Alves,Central-West,Campo Grande,audio_video_electronics,Individual,2017-05-10
+3e35a8bb43569389d3cebef0ce820f69,Daniel Monteiro,South,Joinville,food_drink,Enterprise,2017-11-11
+a7d0f8dd44f57ef6de7f7f02e3d82630,Gabriela Rodrigues,North,Rio Branco,health_beauty,Enterprise,2017-08-26
+a663d9c3797e90eac99ff60939416a56,Lucas Ribeiro,South,Curitiba,computers,Enterprise,2017-11-20
+2aef4c8187ab057d6f1b7e0e636aa481,Vanessa Almeida,Northeast,Salvador,construction_tools_house_garden,Enterprise,2017-05-08
+8e3338430e8b66d28aa88fa892a00063,Ana Santos,South,Porto Alegre,home_decor,Individual,2017-08-20
+3084dcdea01fe4f2d556540e6b2e873d,Bruno Monteiro,Southeast,Campinas,construction_tools_house_garden,Individual,2017-12-23
+a213f1bd6458f4a158f3746cb2514559,Mariana Almeida,North,Rio Branco,computers,Individual,2017-11-23
+a56e351445e5863fc8960640ba9190c7,Isabela Gomes,Southeast,São Paulo,home_decor,Individual,2017-03-26
+9d590e1df0faffd9ceaa1f0f0ea9af2f,Carlos Alves,Central-West,Cuiabá,audio_video_electronics,Individual,2017-02-15
+f49987b20beada69981c57899ffd1095,André Ribeiro,South,Joinville,home_office_furniture,Enterprise,2017-10-11
+5cb4a72356883c59790dc8309cddea2f,Vanessa Alves,North,Rio Branco,home_decor,Company,2017-03-24
+fcdd820084f17e9982427971e4e9d47f,Patricia Almeida,North,Rio Branco,household_utilities,Enterprise,2017-05-25
+131fcb0a0c9a47bba4474aacff0f14b7,Beatriz Almeida,Central-West,Cuiabá,home_appliances,Company,2017-08-03
+3d5d0dc7073a299e31fa718ce1bc00b6,Patricia Araújo,Northeast,Recife,health_beauty,Company,2017-09-03
+0db0dce302e414422ed38aabd133ae04,Pedro Carvalho,South,Porto Alegre,food_supplement,Enterprise,2017-03-23
+3492e68f37fd1df87f4f2f2ea247f445,Bruno Gomes,South,Curitiba,car_accessories,Company,2017-09-15
+ba143b05f0110f0dc71ad71b4466ce92,Juliana Gomes,North,Manaus,books,Company,2017-10-23
+309405cfad0d11cd1ec6bb5d02c70c6b,Thiago Silva,Southeast,Campinas,construction_tools_house_garden,Company,2017-05-25
+e52d2f15bba4aff8a1e2bd12b40fdfbc,Felipe Alves,North,Rio Branco,household_utilities,Enterprise,2017-04-16
+f4009c6b30765309a251c26bc458e0e5,Bruno Rocha,South,Florianópolis,stationery,Individual,2017-07-11
+11fb6f6d341adbe19e81733701704635,Vanessa Martins,North,Belém,home_decor,Individual,2017-10-18
+42fac6337d0f14ecdc18a82bfe6dd076,Amanda Monteiro,Southeast,Campinas,household_utilities,Enterprise,2017-01-03
+e0cfd7ece071eb006b1670ea64d0904e,Gustavo Martins,North,Belém,construction_tools_house_garden,Individual,2017-01-09
+841fba8f46ab4edd1bb086f53735000e,Juliana Martins,North,Porto Velho,car_accessories,Company,2017-06-25
+a333655afd62d4ef51f55ac7c58abb34,Isabela Gomes,North,Porto Velho,car_accessories,Company,2017-02-16
+ade45994b717ccee333492330fbf037b,Rafael Almeida,Southeast,São Paulo,audio_video_electronics,Enterprise,2017-02-25
+784fca1939f4ad6c73be249a80b17d18,Pedro Rodrigues,Southeast,São Paulo,baby,Individual,2017-10-05
+da6a60cc8cc724fe51be021ff8be779c,Thiago Souza,South,Porto Alegre,books,Enterprise,2017-04-15
+6e985a12b7b98f0a15b7bf90cc882f61,Ricardo Mendes,Northeast,Fortaleza,home_office_furniture,Enterprise,2017-12-23
+a69aa24cec11168e7e39a3fbc727e925,Lucas Souza,Southeast,Rio de Janeiro,health_beauty,Enterprise,2017-01-10
+faf3ee2764599d114d7e8f25d4c19845,Mariana Rodrigues,Central-West,Cuiabá,home_decor,Individual,2017-10-23
+6025c79c035c3d772133b8b8238463b2,Carolina Lima,South,Curitiba,car_accessories,Enterprise,2017-10-26
+e1643dff33666ca629e3644c02738179,Rafael Alves,Southeast,São Paulo,household_utilities,Company,2017-11-12
+cc63f0dd2acba93ffed4fe9f8e0321fa,Ana Gomes,Southeast,Belo Horizonte,home_office_furniture,Company,2017-02-14
+bb2afe2061d53c6968aa0cffa233a8ec,Carolina Pereira,Northeast,Natal,sports_leisure,Company,2017-03-24
+ba56ae8ab7eb61b0c3f064f9661eb15c,Rodrigo Alves,Central-West,Campo Grande,books,Company,2017-08-14
+c8cc60ffd415254af5d9b9f34f32c369,Camila Almeida,Central-West,Campo Grande,pet,Individual,2017-05-15
+6267923376872bb45a1c804aed0f1e73,Amanda Mendes,South,Joinville,household_utilities,Enterprise,2017-07-11
+c1849d4d32d7a6cecd5aa471809d3135,Gustavo Araújo,Southeast,Campinas,party,Individual,2017-08-07
+90c523952c5622d268addb6d93a7212f,Camila Nascimento,Northeast,Fortaleza,audio_video_electronics,Enterprise,2017-12-09
+0ab97fdbae52ec0e877efdf9b310528e,Larissa Rodrigues,Central-West,Brasília,food_drink,Individual,2017-04-24
+f233b575e585413f12fe2f847d922447,Felipe Almeida,North,Rio Branco,household_utilities,Enterprise,2017-08-21
+7d2af2d0dc5a86742cda2e5da38c1ac7,Daniel Silva,North,Rio Branco,audio_video_electronics,Individual,2017-05-08
+71729348559edea55a3e7a2bc2a2986d,Lucas Monteiro,North,Belém,health_beauty,Company,2017-08-18
+4125d9385a25e82d2f72d3a0fd55bc3f,Bruno Alves,Central-West,Campo Grande,home_decor,Company,2017-06-23
+5f5a58930c3c35f3b5af264f34fb8c85,Lucas Nascimento,North,Porto Velho,air_conditioning,Individual,2017-02-24
+94eead2f1cdacbf7ba5c5a0bdbe4cf1f,João Alves,South,Florianópolis,household_utilities,Enterprise,2017-03-07
+facd538cb53fa082bffaeee65521020a,Patricia Monteiro,South,Joinville,car_accessories,Enterprise,2017-10-10
+09c34a8e333be37851747c27525a4e53,Lucas Almeida,Southeast,Rio de Janeiro,pet,Company,2017-03-10
+8fbd63429be6d3e5e6d1a709b6464802,Patricia Santos,Southeast,Rio de Janeiro,car_accessories,Individual,2017-09-10
+a28120fc27b206d3bc355b57040baf7a,João Silva,South,Joinville,audio_video_electronics,Enterprise,2017-05-16
+b16d3dadc47d4eb18be3d88bad0775ce,Camila Costa,North,Rio Branco,sports_leisure,Individual,2017-05-28
+a8fee0ab6206634206f782c32e41a2a4,Vanessa Oliveira,North,Manaus,health_beauty,Company,2017-08-03
+dd5450b022b2d00a2145a66331e1aef6,Fernanda Pereira,Central-West,Brasília,household_utilities,Enterprise,2017-05-03
+f887581ec486ee8eec9ed933310848e0,Felipe Gomes,South,Curitiba,car_accessories,Enterprise,2017-10-26
+f89e46b812b06f22508f89873565ce6c,Isabela Ribeiro,Central-West,Goiânia,food_supplement,Company,2017-08-15
+845e8036c3f7bf62099352f5ed910240,Lucas Monteiro,Northeast,Natal,bed_bath_table,Enterprise,2017-01-20
+ce9d7ae0d0fe0a747bc46cf3f089cfaa,Beatriz Rodrigues,Southeast,Rio de Janeiro,audio_video_electronics,Company,2017-11-03
+f049a72cf58fd31b11f8919cade515e7,Ricardo Alves,South,Porto Alegre,audio_video_electronics,Individual,2017-03-01
+117cfc326c6d50da67ca858ff5c0c852,Carolina Mendes,North,Rio Branco,household_utilities,Company,2017-05-02
+c6d5704d1ed91beed0114bcd9d3367bb,Carolina Lima,South,Florianópolis,home_decor,Enterprise,2017-08-03
+049197f741ca0cde891420fc72fba3e5,Daniel Monteiro,South,Florianópolis,pet,Enterprise,2017-04-14
+116e5ef667d05e59c8b95acd02670ff3,Beatriz Pereira,Southeast,Rio de Janeiro,health_beauty,Company,2017-03-03
+f1fdf2d13186575751aa25876536d85c,Daniel Lima,Southeast,Rio de Janeiro,sports_leisure,Enterprise,2017-12-27
+b64d51f0435e884e8de603b1655155ae,Gabriela Souza,Central-West,Campo Grande,household_utilities,Company,2017-12-10
+56e361f411e38dcef17cdc2a3d99628b,Larissa Alves,North,Porto Velho,audio_video_electronics,Company,2017-08-03
+cac876b37d3abcd6bd76caca30277996,Renata Gomes,Central-West,Brasília,home_decor,Enterprise,2017-06-20
+a414555ce331b8c8aea4a9cb8395194d,Maria Almeida,Northeast,Salvador,home_appliances,Enterprise,2017-10-19
+c54679b132454625907c773d273d4126,Amanda Santos,Southeast,Belo Horizonte,health_beauty,Individual,2017-08-17
+4a82168aaef173cbb6e46ae88728f919,Ricardo Monteiro,North,Porto Velho,health_beauty,Company,2017-11-27
+41b9c7bfadf5f42b93b7bfbae1b84494,Thiago Fernandes,North,Manaus,audio_video_electronics,Company,2017-06-11
+d8d9567d0bfb0bc7eb845a205ba42657,Camila Gomes,Southeast,Rio de Janeiro,books,Enterprise,2017-08-10
+3ab971ce71839580d2ae5b4e40fe8044,Gabriela Oliveira,North,Manaus,home_decor,Company,2017-05-11
+02f623a8eb246f3c5f7c2f96462654e6,Gustavo Ribeiro,Southeast,Campinas,sports_leisure,Individual,2017-11-28
+11a559e252a8d167a8ccea7abcf357f3,Bruno Santos,Central-West,Cuiabá,construction_tools_house_garden,Individual,2017-09-12
+cec13d4723ba59aae2a6663b99129a49,Beatriz Martins,Central-West,Cuiabá,car_accessories,Individual,2017-04-09
+0ca9bd8db4679bc89692acdfcd96b6c4,Eduardo Lima,Central-West,Goiânia,health_beauty,Company,2017-12-16
+351cc0833086e30c04f3b0a15dbc3e93,Beatriz Mendes,Southeast,São Paulo,household_utilities,Individual,2017-12-06
+6aa3928696eab49a19a466e665a649fd,Felipe Gomes,Northeast,Salvador,health_beauty,Individual,2017-04-27
+539ed9e19811677513447759be5eccfc,João Pereira,Southeast,Campinas,home_decor,Company,2017-12-10
+d7827b2af99326a03b0ed9c7a24db0d3,Bruno Rocha,Central-West,Campo Grande,construction_tools_house_garden,Company,2017-04-15
+6c6d00f0561125a66cffac53cfe3f913,Mariana Rodrigues,Central-West,Goiânia,food_drink,Enterprise,2017-09-24
+bd4431c1a8dfa744b59e1e2a8bc99b9e,Patricia Gomes,South,Curitiba,health_beauty,Company,2017-09-09
+4a1917ef994878940e1fb03eeb787ad7,Marcos Lima,Southeast,Belo Horizonte,phone_mobile,Enterprise,2017-10-22
+c0aff2da32c17759d30b22fb0af6649d,Gabriela Alves,North,Belém,music_instruments,Company,2017-06-11
+cb6c9f5888a7a090c75beaf615925792,Gabriela Araújo,Central-West,Cuiabá,construction_tools_house_garden,Individual,2017-12-08
+f212a20c700f5a7c3d4de5ef38e02c42,Pedro Gomes,Central-West,Cuiabá,audio_video_electronics,Individual,2017-06-24
+59cea8e446d3834393058e7e0666b6fb,Mariana Pereira,North,Rio Branco,small_appliances,Company,2017-01-05
+2cb98e27ce1c18abdb42209b34c382a7,Gustavo Souza,Central-West,Campo Grande,car_accessories,Company,2017-02-17
+3289d8c3eef4873f91ce0b1343c0dd58,Marcos Pereira,North,Manaus,sports_leisure,Company,2017-11-05
+55c26bcb609f480eb7868594245febb5,Daniel Nascimento,Southeast,Campinas,baby,Company,2017-10-23
+5c3460cd3e8a984382ae254e7dd20d9f,Gustavo Araújo,North,Manaus,baby,Enterprise,2017-09-13
+e979bb42fb660609fe056a6bea03761f,Gustavo Alves,Northeast,Natal,jewerly,Individual,2017-10-03
+bcafb8538edd43b166274b25c60b7458,Pedro Oliveira,South,Florianópolis,audio_video_electronics,Company,2017-02-25
+0e72c1a751b496722a6cb1f10653b62a,Ricardo Lima,Southeast,Campinas,books,Individual,2017-01-11
+abcb0f101902cd0ca5bfddc35ddab560,Rafael Fernandes,Southeast,Belo Horizonte,home_decor,Company,2017-03-08
+ae7ab174effdead6c241e547e4ca13f0,Amanda Costa,Central-West,Cuiabá,household_utilities,Individual,2017-03-03
+f85612e1b253b37d88329fdc16e8f32f,Rodrigo Almeida,Central-West,Cuiabá,pet,Company,2017-10-05
+1d953075c2f0dd990bacf27b83b330f1,Beatriz Nascimento,South,Joinville,computers,Company,2017-05-22
+9261d76c62caaf0b24677c2ceb7f8f20,Renata Lima,Southeast,Campinas,household_utilities,Enterprise,2017-09-06
+def312fb44a52de894acf688498ce1fc,Rafael Monteiro,Southeast,Campinas,home_decor,Company,2017-11-14
+160851d3ece7aa1a510f8d1a4bb8a8af,Gustavo Lima,Northeast,Natal,construction_tools_house_garden,Individual,2017-07-28
+c004e5ea15737026cecaee0447e00b75,Pedro Carvalho,North,Manaus,construction_tools_house_garden,Enterprise,2017-06-19
+7ff588a03c2aeae4fbd23f9ae64b760d,Ana Carvalho,Northeast,Fortaleza,car_accessories,Company,2017-01-19
+880ce4951cf857ab1d9e0b75c1d856f4,Vanessa Lima,Southeast,Campinas,car_accessories,Individual,2017-10-26
+9e6967d3cf386d284251784b18ccb485,Beatriz Rodrigues,Northeast,Recife,construction_tools_house_garden,Enterprise,2017-05-22
+e9c2dc0dd4ac38448289be644ac94f42,Renata Santos,South,Curitiba,sports_leisure,Company,2017-08-02
+964ff64dc05b13811c6d0f41e0aa5f6b,Marcos Pereira,Central-West,Campo Grande,home_decor,Individual,2017-05-11
+ec5b3cd9d6bf0a880edfda73562a7cea,Fernanda Alves,South,Porto Alegre,construction_tools,Company,2017-09-17
+1997c740529040d6a2244d2e818acb50,Patricia Rocha,Northeast,Recife,audio_video_electronics,Company,2017-12-28
+6fcc97197c64771f3c18aea3aa9d3913,Gabriela Oliveira,Northeast,Salvador,construction_tools_house_garden,Individual,2017-04-28
+1cbdc7cf130a41fd13a3c2a7d2fcfda7,Maria Carvalho,North,Porto Velho,bed_bath_table,Individual,2017-05-18
+75fe775fe1a7ad296e77ea7e66b35ac3,Rafael Nascimento,Southeast,Campinas,home_decor,Enterprise,2017-07-27
+9e545d0501bd685bba148d9f631093f1,André Almeida,Northeast,Salvador,construction_tools_house_garden,Company,2017-01-20
+40105cb0aec41563d24ccc7b90ae7083,Eduardo Mendes,Central-West,Campo Grande,home_decor,Individual,2017-11-03
+b1116e9a35b2fa91eb4a0af8e73cdc3a,Beatriz Gomes,North,Porto Velho,small_appliances,Individual,2017-03-02
+17595577347283c0140226df762e2e6b,Thiago Souza,Southeast,Belo Horizonte,bed_bath_table,Individual,2017-04-18
+271b8923c6a549e02d3c9fd1f8c0422b,Gabriela Fernandes,South,Joinville,household_utilities,Enterprise,2017-12-23
+d7cb3f744255259a4ded02cb354f5bcf,Amanda Pereira,Central-West,Cuiabá,home_decor,Company,2017-11-04
+618b0524377e106190c0c91cacdb4b78,Patricia Santos,North,Rio Branco,car_accessories,Enterprise,2017-06-07
+231e2c768bf979ec59ff743f16a442ce,Pedro Fernandes,North,Rio Branco,audio_video_electronics,Individual,2017-11-12
+44717f64ec2a457979cf83c429077666,Carlos Carvalho,Central-West,Campo Grande,handcrafted,Company,2017-04-04
+b0289c0c1f9f84008e7b4dbf795c4676,André Rodrigues,North,Manaus,music_instruments,Enterprise,2017-11-20
+31be790e64fc99f8ff48ec2bd18a3104,Daniel Araújo,Southeast,São Paulo,household_utilities,Individual,2017-03-26
+b0ec35adb04cfa85d3e0ff3f79c186a3,Maria Alves,Central-West,Goiânia,home_office_furniture,Individual,2017-10-07
+fa7cc273072520346449b9e89329768a,Isabela Pereira,South,Florianópolis,audio_video_electronics,Enterprise,2017-01-09
+120476eb7a04c149d14772edaf5d9bf2,Felipe Nascimento,South,Porto Alegre,construction_tools_house_garden,Individual,2017-02-22
+7df961ce758538004de6db0f5b9d7b6f,Ana Fernandes,Southeast,Rio de Janeiro,home_decor,Individual,2017-10-11
+cee4320453079d554562dee0753d7d43,Patricia Santos,Southeast,Rio de Janeiro,health_beauty,Individual,2017-12-14
+21f3118106d69d16dfe7d5aaf37cb242,Marcos Oliveira,Central-West,Brasília,car_accessories,Company,2017-08-25
+94d76e96eedd976258cd3278ce56d5f2,Gabriela Ribeiro,Northeast,Salvador,construction_tools_house_garden,Individual,2017-10-02
+b5e7d871b063f34de611e8b448e63f2e,Gabriela Silva,Central-West,Campo Grande,health_beauty,Individual,2017-08-28
+04ed0495537199603d4930fc5c0dd026,André Souza,North,Rio Branco,audio_video_electronics,Company,2017-12-15
+96c1c7f1f24470915da80563cd1202ea,Camila Mendes,Southeast,São Paulo,audio_video_electronics,Individual,2017-02-05
+1f74801bb8b05750ce5e7597b685bd13,Mariana Mendes,Northeast,Fortaleza,food_supplement,Enterprise,2017-05-15
+bed6d1f6c4664ab8cf3abf3821727756,João Souza,Central-West,Cuiabá,construction_tools_house_garden,Enterprise,2017-11-25
+377bc18334c78dd2f1535ef22a3ad225,Bruno Martins,Central-West,Goiânia,car_accessories,Individual,2017-07-11
+51fdd5d43db628fada4588f89aba3e8e,Bruno Souza,North,Rio Branco,car_accessories,Company,2017-07-11
+58f1a6197ed863543e0136bdedb3fce2,Fernanda Rocha,Northeast,Fortaleza,fashion_accessories,Individual,2017-02-27
+65febd49fd28ec955651299159b1f527,Bruno Souza,Southeast,São Paulo,household_utilities,Enterprise,2017-12-12
+9b1585752613ec342d03bbab9997ec48,Amanda Alves,South,Curitiba,car_accessories,Enterprise,2017-06-22
+cbf09e831b0c11f6f23ffb51004db972,Rafael Gomes,Southeast,Campinas,household_utilities,Enterprise,2017-01-10
+4f0d637c1197fd65405ebd755ac9f86b,Rafael Souza,Central-West,Campo Grande,health_beauty,Enterprise,2017-09-07
+026c6180cd86d6069dad573ce69b465e,Pedro Souza,South,Joinville,household_utilities,Company,2017-09-12
+0691fc6052b1918d775ac6ff8275eb01,Amanda Almeida,Southeast,Belo Horizonte,home_decor,Company,2017-09-25
+d50f6d198921d51b24544738b29d2b0e,Rodrigo Nascimento,Central-West,Brasília,food_drink,Individual,2017-03-09
+9485222b0bad29d3b0e860fa5ec1fdd4,Rafael Silva,Northeast,Fortaleza,construction_tools_house_garden,Individual,2017-03-19
+28fadc495e06e64b5d15d54959f2cee1,Fernanda Silva,North,Manaus,watches,Individual,2017-12-17
+dbdd0ec73a4817971d962698f2fea022,Bruno Martins,South,Joinville,health_beauty,Company,2017-03-12
+2aeedd049dc20e7171f43110fd0d6821,Isabela Monteiro,Northeast,Fortaleza,construction_tools_house_garden,Enterprise,2017-02-02
+6a60bd6a4afd5fc86b75b47ec502df7b,Isabela Mendes,South,Porto Alegre,health_beauty,Individual,2017-11-03
+46bec94e1e0fc413b6adb1d1bd175477,André Gomes,Northeast,Natal,food_supplement,Company,2017-10-15
+73df8d9e8f8c54d0d42feb9bf58c718c,Juliana Ribeiro,North,Porto Velho,home_office_furniture,Individual,2017-06-14
+dd22fbe4df5d84be25176054640b696d,André Monteiro,Southeast,Belo Horizonte,food_drink,Company,2017-09-22
+2aa8585964d74f71e334a6c3de2ddc27,Pedro Carvalho,Northeast,Salvador,fashion_accessories,Enterprise,2017-01-01
+6cd5309bfee39493f71de0350e837b3d,Juliana Pereira,South,Florianópolis,car_accessories,Company,2017-05-11
+caa9bc43a9fe8cf9c564ddd8a03cc4a6,Thiago Gomes,Southeast,São Paulo,toys,Individual,2017-03-13
+fe87f472055fbcf1d7e691c00b1560dc,Larissa Alves,Central-West,Goiânia,home_decor,Enterprise,2017-06-03
+366b6b05f39997f102dc5179de14d43c,Bruno Silva,North,Manaus,health_beauty,Company,2017-02-28
+9169e322ad3419286d1e5ee8f1c3b3f0,Amanda Carvalho,Northeast,Natal,perfume,Enterprise,2017-11-14
+da4d149c0ddbac90557103ac0a0ec356,Mariana Silva,Northeast,Salvador,sports_leisure,Company,2017-03-26
+4dd7866cf496e0c2fcfc93a4589dc1be,Vanessa Fernandes,Central-West,Cuiabá,fashion_accessories,Individual,2017-07-28
+bc2579cde838eb0fa8477f7efb1298d1,Bruno Monteiro,Southeast,Rio de Janeiro,household_utilities,Company,2017-09-03
+693660429f9dc4ff704eb3d88dad54d7,Marcos Araújo,North,Porto Velho,audio_video_electronics,Individual,2017-06-25
+7d7866a99a8656a42c7ff6352a433410,Larissa Souza,South,Curitiba,household_utilities,Enterprise,2017-09-07
+657969cca82e884d272385ec0ef06edd,Marcos Pereira,Northeast,Fortaleza,fashion_accessories,Individual,2017-02-05
+b7140ce94c4514bf136a2c3f98e0476c,Ricardo Mendes,Northeast,Recife,audio_video_electronics,Individual,2017-11-03
+a50397ac35dc51ce40c4c3117828e4ec,Gabriela Monteiro,South,Joinville,audio_video_electronics,Enterprise,2017-08-22
+d65d93b215feab3f997441e1e0a98ca5,Gustavo Araújo,Central-West,Campo Grande,computers,Individual,2017-08-03
+dda37071807e404c5bb2a1590c66326f,Beatriz Lima,North,Rio Branco,bags_backpacks,Company,2017-10-02
+85be0b7181c48c393007b0002fdec79c,Lucas Martins,Northeast,Salvador,construction_tools_house_garden,Company,2017-01-02
+671585f5a2af58b6e276bc01003c0d2b,Maria Oliveira,Northeast,Fortaleza,household_utilities,Enterprise,2017-10-17
+4a1f694197d05fe70026b016a7316b41,Amanda Alves,North,Rio Branco,home_decor,Enterprise,2017-01-15
+3d3ccf2b2f8134b10dce9dd446f0e075,Camila Mendes,Central-West,Goiânia,home_decor,Company,2017-09-05
+2cb6eb1b7185064167657fa09f541105,João Araújo,Southeast,Campinas,home_decor,Enterprise,2017-02-17
+0fe3372ef9bebf177e6cb95fa0340fb6,Pedro Martins,South,Curitiba,construction_tools_house_garden,Company,2017-09-17
+964cb238d75d1e6c6e1f88adcdf14f42,Rafael Fernandes,Central-West,Goiânia,construction_tools_house_garden,Company,2017-07-14
+167bde8a09cb3196874f3f7e2753a98d,Daniel Araújo,Northeast,Salvador,toys,Individual,2017-06-04
+c84592044b180dec206770c38603814b,Lucas Nascimento,Central-West,Cuiabá,audio_video_electronics,Enterprise,2017-11-20
+c3e1abd72a42fe690fcd89cf5720fe29,Maria Monteiro,South,Florianópolis,pet,Enterprise,2017-03-12
+4d0041cdbe51b4617d95c70b19decc74,Fernanda Mendes,Northeast,Natal,car_accessories,Enterprise,2017-02-10
+4e0bb097aa0fb4e2f9a146b77698427a,Beatriz Araújo,Central-West,Cuiabá,car_accessories,Individual,2017-11-23
+77e81c45f03c23a7b43dbb0bdd905dff,Beatriz Gomes,Central-West,Brasília,health_beauty,Enterprise,2017-06-01
+2fa13c8bd5705d279f7ed5cc9ec61c68,Ricardo Rodrigues,Northeast,Fortaleza,health_beauty,Company,2017-08-07
+9e54d45e5f30ed4f296bd25d4edada20,Fernanda Oliveira,South,Porto Alegre,music_instruments,Company,2017-02-17
+596d3b6f78d5a703bfce24b801d2fbdb,André Araújo,Central-West,Brasília,health_beauty,Enterprise,2017-03-20
+18e694e0e48ed6f7aa3f24aade5fd697,Ricardo Costa,North,Belém,computers,Enterprise,2017-10-26
+667ee4b0aece58908fae3fd1649b7e6c,Carlos Gomes,South,Joinville,handcrafted,Company,2017-11-24
+fd435faa3c0422b60440ea3480d0e77c,Rodrigo Lima,South,Joinville,music_instruments,Enterprise,2017-08-08
+7816cd9c5b1238e320545f5bf7eb80e8,Lucas Rocha,Central-West,Goiânia,construction_tools_house_garden,Individual,2017-06-22
+713a71465d58d5315a36788861dfec4a,Gabriela Lima,Central-West,Cuiabá,stationery,Company,2017-09-17
+4d54524ebf3e26769edc397a2eb26462,Vanessa Rodrigues,North,Belém,computers,Enterprise,2017-03-28
+8dc50970bc5ef0bf96e6dc401caf0c1c,Beatriz Rocha,Northeast,Salvador,home_office_furniture,Company,2017-09-04
+c963a25b8671419c6ce9eebe8fd03218,Lucas Oliveira,Central-West,Brasília,home_decor,Individual,2017-05-15
+2aafae69bf4c41fbd94053d9413e87ee,Vanessa Gomes,Central-West,Goiânia,stationery,Individual,2017-04-27
+3c6b1149911003e599410f60c7735bc6,Eduardo Silva,North,Porto Velho,audio_video_electronics,Company,2017-01-13
+9ebf0ac03992f6240c8339820ed03581,Pedro Carvalho,Central-West,Campo Grande,small_appliances,Individual,2017-06-08
+65d5e688c5bba88c62953b3a97264d54,Eduardo Souza,Southeast,Belo Horizonte,home_office_furniture,Enterprise,2017-11-11
+013d100f608a64ec8275c038aedeb064,Carlos Lima,South,Porto Alegre,food_supplement,Company,2017-12-27
+d66c11a9572221d92fbb8c4897db5f9b,Gabriela Mendes,South,Joinville,household_utilities,Individual,2017-02-01
+7d91f9d655df761fd0cf119733a61e74,Vanessa Pereira,Northeast,Recife,perfume,Enterprise,2017-12-20
+77d0bfeb12a6711682cc61a508f87313,João Lima,Central-West,Cuiabá,health_beauty,Individual,2017-05-04
+01fd077212124329bac32490e8ef80d9,Bruno Mendes,Southeast,Rio de Janeiro,household_utilities,Company,2017-02-04
+c0199604c0ca0863cd20b95aadd24427,Beatriz Ribeiro,North,Manaus,phone_mobile,Enterprise,2017-04-23
+7461606ae81596a71b8a98fd0f2460b2,Bruno Silva,South,Florianópolis,home_office_furniture,Enterprise,2017-06-08
+9d213f303afae4983637247556438ede,Ricardo Oliveira,Central-West,Cuiabá,bed_bath_table,Enterprise,2017-06-03
+76bf0e3e7d311d9069d4512cc1a232d7,Mariana Rocha,Central-West,Brasília,home_decor,Individual,2017-11-13
+4ff8d644ff76721b86fdc7c75c48d4a6,Marcos Silva,Northeast,Fortaleza,car_accessories,Company,2017-02-12
+59ddca14932ec5557c099a51c4d5a58e,Isabela Monteiro,South,Curitiba,food_supplement,Enterprise,2017-06-05
+8c9348f33ae3dada25c99c99ade2af78,Felipe Araújo,Southeast,Belo Horizonte,construction_tools_house_garden,Enterprise,2017-03-27
+89c4c1dfaab405a37514bda5243b0206,Beatriz Costa,North,Rio Branco,sports_leisure,Individual,2017-02-23
+f1b854361f4e15d5851b494df66f22b2,Lucas Rodrigues,North,Manaus,pet,Individual,2017-04-02
+c8665a4dd081a2c436b1cd921079d0d9,Larissa Carvalho,Northeast,Fortaleza,car_accessories,Enterprise,2017-08-09
+138dbe45fc62f1e244378131a6801526,Lucas Fernandes,Southeast,Rio de Janeiro,household_utilities,Individual,2017-11-11
+b25ec1aff84400104d63eadc3b3052fa,Daniel Fernandes,Northeast,Salvador,audio_video_electronics,Company,2017-07-24
+3917f19baf48b61b7c9a106ea10ad953,Camila Costa,North,Rio Branco,small_appliances,Company,2017-12-16
+eb72802c83dc7547529c9546d1a9b8ef,Daniel Oliveira,Northeast,Fortaleza,health_beauty,Enterprise,2017-07-03
+b67d6c666e8dce1d078c882825e12704,Felipe Lima,North,Belém,sports_leisure,Company,2017-02-03
+980640c45d7a4635885491d077167e4d,Lucas Martins,Northeast,Fortaleza,bags_backpacks,Enterprise,2017-12-14
+d84ecc09e7c9517825a219be37aca08b,Rafael Martins,South,Joinville,car_accessories,Individual,2017-12-28
+dc7192adf8ba09569261f4a8d576afe0,Patricia Santos,Northeast,Natal,household_utilities,Individual,2017-11-21
+43037711a5c131786d1633e96185d278,Larissa Costa,North,Porto Velho,pet,Individual,2017-03-28
+3b2386b23bc4807a467c2ea5770cdd80,Carlos Pereira,Central-West,Cuiabá,household_utilities,Individual,2017-04-25
+c30eb4a935f1ea375393aa691a69b19c,Mariana Monteiro,Northeast,Fortaleza,audio_video_electronics,Individual,2017-10-05
+ffad1e7127fb622cb64a900751590acd,Rafael Martins,North,Porto Velho,home_decor,Individual,2017-10-05
+7b98de631987e26dd6d803490c43a13c,Mariana Araújo,Central-West,Campo Grande,construction_tools_house_garden,Enterprise,2017-05-08
+77d81755dbf8e62faa0fb683e1a802c6,Marcos Costa,Southeast,São Paulo,home_appliances,Company,2017-09-13
+70bf57d811208f8923b41bbd499a67a4,Patricia Nascimento,Central-West,Brasília,small_appliances,Enterprise,2017-08-07
+4018093c0809ddcb1f633ed5cc3f5eb2,Carolina Rocha,Central-West,Campo Grande,home_decor,Individual,2017-02-05
+4de7a9f2b6acffd74c9f148f8902b854,Ricardo Martins,Southeast,Campinas,watches,Individual,2017-11-28
+bc8c8d665ec4664d286be0d521722b19,Carolina Oliveira,Northeast,Fortaleza,food_drink,Enterprise,2017-09-10
+a63bfbaa882c8f4542891b4e2246cc7f,Carolina Costa,Northeast,Recife,health_beauty,Company,2017-09-08
+33d677f27a69b84051204ee4ae76eaca,Daniel Pereira,Southeast,Rio de Janeiro,food_drink,Individual,2017-08-01
+92887d76687f9477f1c7f759bc4a225b,Gabriela Alves,Northeast,Fortaleza,home_office_furniture,Individual,2017-10-03
+8a8835a43bda99fd37310ad76c457510,Mariana Rocha,Southeast,Belo Horizonte,car_accessories,Enterprise,2017-07-25
+0873d9f8f36123f8d910f4760e788cfb,Fernanda Araújo,North,Manaus,audio_video_electronics,Enterprise,2017-02-15
+59bbc819b99a733f02f0d6b49d1c253d,Fernanda Alves,North,Porto Velho,car_accessories,Enterprise,2017-10-06
+61b18775be84fb700a6b2d0ba097bf66,Larissa Santos,South,Joinville,pet,Individual,2017-09-05
+761681a821d8275bc79f552116d06869,Ricardo Araújo,Northeast,Recife,home_decor,Enterprise,2017-04-12
+1a8e2d9c38b84a9702ac7922924b0573,Gustavo Oliveira,Central-West,Campo Grande,household_utilities,Company,2017-04-21
+ab2a1539d7cdbddcfb6b568447ed767d,Fernanda Lima,Central-West,Campo Grande,party,Enterprise,2017-09-03
+a66aed6f85eb3f719792329338875b72,Amanda Monteiro,Central-West,Goiânia,food_supplement,Individual,2017-03-22
+c32fc744b9160ac853450488e3cfea93,Vanessa Monteiro,Central-West,Campo Grande,food_supplement,Individual,2017-01-03
+08083b94b3c7e0847502a026125dbfbd,Beatriz Rodrigues,Southeast,Belo Horizonte,construction_tools_house_garden,Enterprise,2017-07-20
+165b1235e9e9942cb5fae67103576fb0,Renata Alves,Southeast,Campinas,home_decor,Company,2017-11-10
+13a6bea45beacabbd2d7551940020653,Daniel Carvalho,North,Belém,construction_tools_house_garden,Company,2017-08-03
+9803a40e82e45418ab7fb84091af5231,Gabriela Gomes,Southeast,Rio de Janeiro,audio_video_electronics,Company,2017-08-07
+ec8463980a4e0ea9f8517aea1ed0c419,Camila Araújo,Northeast,Recife,home_decor,Enterprise,2017-06-13
+80b2f7568a7016771f58c5b981da3ae3,Larissa Alves,South,Florianópolis,health_beauty,Individual,2017-06-08
+e52a436a49da33527c29e1b5fbd09317,Patricia Martins,North,Manaus,food_drink,Individual,2017-03-04
+f9eda05b67bef472deaddbba84aca289,Mariana Mendes,Southeast,Belo Horizonte,watches,Company,2017-04-28
+ffa6adafb71b807dc13159e26431354c,Eduardo Monteiro,South,Florianópolis,car_accessories,Enterprise,2017-06-07
+14c9e2cbff9aaf67afd967798a651733,Larissa Martins,South,Joinville,food_supplement,Company,2017-05-16
+447d377bdb757058acb569025ee18a93,Mariana Ribeiro,Southeast,São Paulo,toys,Company,2017-04-07
+f0533bc9cc3111a0b2f8198157a34571,Carlos Santos,Central-West,Campo Grande,health_beauty,Company,2017-08-20
+1f7dfad2cb384ea4d2d7e1ffbd78c407,Felipe Silva,North,Porto Velho,toys,Individual,2017-07-05
+8de8fe3af4449ed695d2434c933ed73e,Isabela Carvalho,Northeast,Fortaleza,air_conditioning,Company,2017-01-13
+ceb123995e945aab9f7c259819f70a2e,Rafael Alves,Southeast,Rio de Janeiro,construction_tools_house_garden,Company,2017-02-13
+db2956745b3a8e9f3785c99f34b5d25e,Isabela Alves,Central-West,Cuiabá,audio_video_electronics,Company,2017-10-22
+c5f7e746b7e6d07def6c0dae9903279b,Fernanda Souza,Central-West,Brasília,pet,Company,2017-06-26
+bf28429c4b2c63d4a66f2a1ef89e7cfa,Isabela Pereira,Northeast,Fortaleza,computers,Individual,2017-10-17
+684ffe8bd167b50565e8546d7a99ec63,Carlos Santos,North,Manaus,home_decor,Individual,2017-12-11
+0fca1de8751a104ca87890f19f363d4d,Fernanda Mendes,North,Rio Branco,bags_backpacks,Enterprise,2017-03-11
+4bfc7a4a1cf8d4d2121c27422d9e50b5,Ricardo Carvalho,Central-West,Campo Grande,home_decor,Enterprise,2017-12-27
+98d634015211a1cd9b861e59b6d1b79b,Larissa Ribeiro,Northeast,Fortaleza,food_drink,Enterprise,2017-08-23
+6267b2cd3c8d9bfa2cc778c11d54e76c,Thiago Silva,Central-West,Campo Grande,jewerly,Company,2017-06-22
+f093be9f8ecb3904adb95cbe76434e1c,Amanda Lima,Southeast,Campinas,music_instruments,Enterprise,2017-12-21
+6e1706430e9dda78c8d2d5dd1f36d545,Patricia Monteiro,Southeast,Campinas,food_supplement,Enterprise,2017-04-24
+bec568278124768c474ee90971ca94d1,Ricardo Ribeiro,Southeast,Campinas,home_decor,Enterprise,2017-12-20
+762fafdaa57a532ee0119731697579dd,Vanessa Almeida,North,Belém,toys,Individual,2017-10-23
+d263fa444c1504a75cbca5cc465f592a,Ana Martins,Southeast,Rio de Janeiro,gifts,Company,2017-07-05
+cb9942fc1981289d7e809573bc69c7db,Bruno Ribeiro,North,Belém,books,Enterprise,2017-08-28
+2cadea330183af560c84a87409e5c0e0,Larissa Rodrigues,Southeast,Rio de Janeiro,car_accessories,Enterprise,2017-06-22
+1f080fb8ad65b21e195b903bd366ae68,Camila Costa,North,Rio Branco,pet,Company,2017-09-11
+95081451c156a9d11136ecfc5422a20f,André Nascimento,Central-West,Campo Grande,car_accessories,Enterprise,2017-08-07
+b30aab8e0bdb2b3876d33df69222cc5b,Felipe Lima,South,Florianópolis,household_utilities,Individual,2017-05-25
+bd57c88dfa162e7a0f5284a25935af65,Carolina Rocha,Northeast,Recife,home_decor,Company,2017-08-12
+b03a9c9814f98280b6d91cb560eeda5b,Lucas Souza,Central-West,Campo Grande,car_accessories,Enterprise,2017-11-18
+6514418ce691fad2663207c14a1fc1f4,Vanessa Fernandes,North,Rio Branco,food_drink,Individual,2017-05-02
+3f9be91358837bff69df67edfa3e42e8,Rafael Martins,Northeast,Salvador,pet,Enterprise,2017-05-24
+c1319b7d63c25ad7838d268fec93d0fa,Juliana Alves,North,Belém,audio_video_electronics,Company,2017-09-23
+b6a59a960c14aab3c683a673d03ca2ab,João Mendes,Northeast,Recife,health_beauty,Enterprise,2017-10-08
+871708b5b0c28260241a7ddbcec894c3,André Ribeiro,South,Curitiba,toys,Individual,2017-11-08
+4867209cb29b56b92893d7bde3ce8012,Bruno Araújo,Southeast,São Paulo,health_beauty,Enterprise,2017-08-04
+e9179018f5d095c744e8a333264f99d1,Felipe Costa,South,Curitiba,construction_tools_house_garden,Company,2017-11-16
+5e8fbfbb0b53e303caf57d7408627b73,Isabela Lima,North,Belém,home_decor,Company,2017-05-21
+946a07c34ff7e9eafa2d0ad6c45340ec,Beatriz Monteiro,Southeast,São Paulo,construction_tools_house_garden,Individual,2017-09-24
+d4ffeb15b67e81ff9af2b4252d99fb7e,Bruno Costa,Southeast,Rio de Janeiro,bags_backpacks,Individual,2017-07-26
+5e9f5bd34e0830569f05c9d4f56e04a8,Eduardo Lima,North,Belém,bags_backpacks,Individual,2017-01-10
+b3a449163f5fe8657f2f0c83f41e7a5a,Eduardo Araújo,Central-West,Brasília,toys,Company,2017-08-21
+c03fd7fd50f9f421847d970502fe5d26,Renata Pereira,Central-West,Cuiabá,fashion_accessories,Enterprise,2017-08-09
+d8bf0fc082fd4a77fc2e5679b6c00133,Camila Costa,South,Curitiba,construction_tools_house_garden,Enterprise,2017-08-21
+8a432f4e5b471f8da497d7dc517666e2,Ana Araújo,Northeast,Recife,bed_bath_table,Company,2017-10-22
+108ca0788dee2b34051cd325dd9eafed,Rodrigo Carvalho,South,Porto Alegre,bed_bath_table,Company,2017-09-11
+03a2a6dcbe45d639c4dc2a0d24769c40,André Souza,Southeast,Campinas,construction_tools_house_garden,Individual,2017-03-16
+6a38087bc8ad4f89ff453561005f6dea,Ana Nascimento,Northeast,Recife,computers,Company,2017-04-15
+d9a84e1403de8da0c3aa531d6d108ba6,Lucas Monteiro,Northeast,Fortaleza,toys,Enterprise,2017-10-01
+f12d3c2a14729ae461b920c11fe20fdc,Carolina Almeida,Northeast,Fortaleza,home_decor,Individual,2017-11-04
+cdb142290473bb9442f55741e430682e,Ricardo Carvalho,North,Porto Velho,home_decor,Enterprise,2017-09-23
+a8739afb32aaa45e01815ca76f76f54b,Beatriz Lima,Northeast,Salvador,car_accessories,Company,2017-10-08
+12e6ecc830aa50dcace131431d90f426,Thiago Pereira,South,Porto Alegre,home_decor,Company,2017-12-20
+a6a52627793bc24c517d364354c20f6f,Carolina Alves,Northeast,Natal,home_decor,Company,2017-09-26
+5bf397d04035b5f45cc41e82ec106803,André Mendes,South,Porto Alegre,household_utilities,Individual,2017-09-15
+bbe9a13ea83539951c8edfc200565bad,Maria Monteiro,Central-West,Campo Grande,home_decor,Individual,2017-01-27
+e00c0a3af0718a2ecf6618c84cd1b1ff,Amanda Alves,Central-West,Goiânia,fashion_accessories,Individual,2017-03-11
+8bee95b757e33c86511de3f9311100b9,João Rodrigues,Central-West,Cuiabá,car_accessories,Enterprise,2017-10-16
+d1ef48b38baca7e831711c4a0aeb398f,Daniel Santos,Southeast,Campinas,construction_tools_house_garden,Company,2017-03-17
+e5cbe890e679490127e9a390b46bbd20,Amanda Santos,North,Rio Branco,food_supplement,Enterprise,2017-08-22
+e6bb1e7ea5580c5b9f0970407b3f8c7b,Mariana Nascimento,Northeast,Salvador,construction_tools_house_garden,Individual,2017-12-07
+0b0c50f6ddac7e6e7ed9d513ec122c74,Carlos Gomes,Central-West,Brasília,household_utilities,Company,2017-12-03
+723cd880edaacdb998898b67c8f9da30,Eduardo Oliveira,Central-West,Brasília,bed_bath_table,Company,2017-01-10
+a2fbfee48b1a9b455b126c70e421ec91,Isabela Pereira,North,Belém,gifts,Enterprise,2017-12-21
+7020bbe82544a814b5665a2887119267,Renata Carvalho,North,Porto Velho,health_beauty,Company,2017-07-13
+36f98ad67cc981f50ce8aed093d5783c,Beatriz Fernandes,Southeast,Rio de Janeiro,audio_video_electronics,Individual,2017-03-18
+8c6d188ef073e289887bc52bc37f3e61,Marcos Almeida,North,Belém,audio_video_electronics,Individual,2017-01-10
+99a6380f4dd5ed504cd8003d94d0be25,Felipe Carvalho,North,Rio Branco,home_decor,Individual,2017-04-15
+83c465a786b06574376909b35ef6752a,Patricia Rodrigues,Northeast,Recife,handcrafted,Enterprise,2017-02-02
+6c99c983ce3b6ba0ab813e6790e81691,Pedro Rodrigues,North,Manaus,toys,Individual,2017-02-20
+5e105f5c9f63f5f1fd75d6cb942e55b1,Rodrigo Santos,Southeast,Campinas,home_decor,Individual,2017-12-02
+bdae679a9b282249bc23b9b69dae9a99,Pedro Alves,North,Rio Branco,construction_tools_house_garden,Individual,2017-01-05
+3387acafd8bea46d73fc50cc9f7e2a9a,Pedro Monteiro,Central-West,Campo Grande,computers,Company,2017-10-20
+52a50b42accf164f9f019941e5759d9b,Lucas Pereira,Northeast,Recife,food_drink,Enterprise,2017-09-08
+45f04cd6eccb0a2ab2ed62d4939ca2d2,Patricia Santos,North,Porto Velho,household_utilities,Enterprise,2017-10-24
+da7039f29f90ce5b4846ffc0fcc93beb,Felipe Rocha,South,Joinville,audio_video_electronics,Individual,2017-06-21
+59055625da956ae84296c08491141984,Carolina Gomes,North,Porto Velho,construction_tools_house_garden,Company,2017-03-10
+47ff0b75e3609b6b80fbd1450384a623,Isabela Alves,North,Belém,home_decor,Company,2017-04-28
+f22a247b79dd22ecd91dc8e3b2a1b07c,Gustavo Pereira,South,Florianópolis,health_beauty,Company,2017-01-18
+87193a47e93a5c1912254392431f524d,Felipe Ribeiro,North,Rio Branco,health_beauty,Individual,2017-07-08
+b12cce16926aca79e4dc5483947792cc,Camila Oliveira,Northeast,Recife,car_accessories,Company,2017-06-03
+98932494b926a74eda339b76ce0b4bc0,Carlos Nascimento,Central-West,Goiânia,sports_leisure,Company,2017-11-20
+9966324e28b7fa38165d2d3d12d53b7f,Gustavo Oliveira,Central-West,Brasília,phone_mobile,Individual,2017-10-24
+7cae39bbb9e55772693688c5afd957e6,Thiago Rodrigues,Central-West,Goiânia,bags_backpacks,Company,2017-05-01
+bb7ad8a45c027be8ab075b8e465f8ca0,Marcos Souza,South,Porto Alegre,household_utilities,Enterprise,2017-08-08
+3b945b144f631e998d7e484cc48b3783,Mariana Almeida,Central-West,Goiânia,computers,Enterprise,2017-06-25
+1cbd32d00d01bb8087a5eb088612fd9c,Gabriela Alves,Northeast,Natal,health_beauty,Enterprise,2017-06-10
+28d365edb9c888771df5915b575f8f34,Larissa Rocha,Northeast,Fortaleza,home_decor,Company,2017-02-26
+67edf85a314145ec81e546794dbc31cc,Eduardo Rodrigues,North,Porto Velho,construction_tools_house_garden,Company,2017-06-14
+4f6bf26bd1ecc9aa855e9cce6869b566,Marcos Pereira,Southeast,Rio de Janeiro,audio_video_electronics,Individual,2017-05-18
+ffc470761de7d0232558ba5e786e57b7,Lucas Pereira,Central-West,Cuiabá,construction_tools_house_garden,Individual,2017-06-08
+07de60b03d150fb3ea09eab5da5e4c8b,Thiago Alves,North,Belém,bed_bath_table,Enterprise,2017-11-11
+86ff3eaef0267069cc891a2ed9d10a17,Marcos Rocha,Northeast,Natal,sports_leisure,Company,2017-03-24
+299c89a525fee36c567f4fe72f038100,Fernanda Alves,Northeast,Recife,audio_video_electronics,Company,2017-03-18
+fc7adf89a5d4fb88c007094fdae351c4,Vanessa Oliveira,Southeast,São Paulo,handcrafted,Enterprise,2017-01-25
+f66425655311542de5db64f27d0d5651,Fernanda Almeida,Southeast,Campinas,car_accessories,Individual,2017-12-05
+3ea08c48e851106d2f584349daba335f,Larissa Martins,Southeast,Rio de Janeiro,baby,Company,2017-01-20
+bea51724befa11664f1d44a92ba8f4c3,André Rocha,Central-West,Cuiabá,jewerly,Individual,2017-01-18
+528f22dfa20a3de9375b2b38e49cc617,Ana Silva,Central-West,Cuiabá,home_decor,Enterprise,2017-12-09
+2d34636518ba88f5349b732fcf8ba2e4,Ana Ribeiro,Central-West,Campo Grande,computers,Enterprise,2017-11-14
+e6cf587c2552879f7471e7e8c993ea1c,Eduardo Souza,South,Curitiba,car_accessories,Enterprise,2017-03-08
+503ad3c3811010c6ba4577f411724b13,Vanessa Fernandes,South,Florianópolis,food_drink,Company,2017-07-03
+e8dba4d70f7f2b20e775d09cae01142d,Gabriela Monteiro,Northeast,Natal,bags_backpacks,Individual,2017-12-08
+bbe87dce25ba8b38bb61cc7210a3f10b,Beatriz Santos,Northeast,Salvador,construction_tools_house_garden,Individual,2017-07-13
+9e3f08af3b6caa76962b05087eed5425,Carlos Silva,North,Rio Branco,construction_tools_house_garden,Enterprise,2017-03-03
+94165aea8a35c3c21499cbcae239b16c,Beatriz Araújo,North,Rio Branco,car_accessories,Enterprise,2017-02-17
+43ac443db8d4fbfb1454aa1364404264,Juliana Monteiro,Southeast,Rio de Janeiro,car_accessories,Company,2017-05-02
+54212aa507a8696b0766046bd3aecdc3,Renata Alves,Southeast,Belo Horizonte,jewerly,Enterprise,2017-11-02
+267116eae2e631a965ef86be260f9278,Ana Rodrigues,South,Florianópolis,fashion_accessories,Enterprise,2017-03-25
+3d2531eccfbde1d7c8db7a3a12fb267a,Lucas Costa,North,Manaus,music_instruments,Enterprise,2017-04-19
+770145ac7913d8d3ace8aa83a1304938,Mariana Pereira,North,Porto Velho,bed_bath_table,Enterprise,2017-12-03
+cf8ca2db83470a73b7cebdd86ea96fb9,Carlos Souza,Central-West,Campo Grande,phone_mobile,Company,2017-04-27
+b6584a94139a5dd427c5b2d918116197,Rodrigo Mendes,Southeast,Belo Horizonte,bags_backpacks,Enterprise,2017-07-25
+89d394e1e062b0c231c559196aa7e18c,Beatriz Nascimento,Northeast,Salvador,computers,Company,2017-08-08
+2f7c0e24a8a8fa5c807b59f66c2e9637,Bruno Costa,Northeast,Natal,sports_leisure,Enterprise,2017-10-22
+81cce42d33ddf3d4f89f1d476b5e35e7,Isabela Mendes,North,Manaus,health_beauty,Company,2017-04-23
+68c701b433babf6e12018f1a674d3228,Patricia Pereira,Southeast,São Paulo,home_decor,Company,2017-12-26
+184725737946a1a938bbbd1a9e978103,Camila Fernandes,South,Joinville,fashion_accessories,Individual,2017-02-01
+528e4514f9339c1c3dd7535fd1a2d8cb,Rafael Nascimento,Northeast,Natal,home_decor,Individual,2017-03-03
+2ba91c7ad80ff88b23b7db823b43c233,Gabriela Alves,South,Joinville,pet,Enterprise,2017-09-14
+bf0d50a6410d487dc97d2baac0a8c0be,Maria Fernandes,Southeast,São Paulo,home_decor,Enterprise,2017-02-20
+18d5b01a5ca858cf540df954e063978d,Gustavo Carvalho,Central-West,Campo Grande,audio_video_electronics,Individual,2017-05-14
+ce77b964b9986a57b37b928be67d9959,Marcos Alves,North,Manaus,food_supplement,Individual,2017-10-17
+1b69e7630792e60471efca457d5b57af,Ricardo Pereira,South,Joinville,handcrafted,Company,2017-05-09
+9da15f4a4ea758d9eeb49000dbe57e22,Maria Costa,North,Belém,home_decor,Company,2017-05-14
+5a4473aa20aec979dea3eee0822165aa,Daniel Oliveira,Northeast,Natal,fashion_accessories,Company,2017-05-08
+573becd44db78cee00182ec4a5594806,Gabriela Souza,North,Belém,household_utilities,Individual,2017-05-01
+0a85ebe4e328db81ac9109781205e2f7,Vanessa Mendes,North,Porto Velho,home_decor,Company,2017-06-15
+7f5e4d5efad7e44b91115dd1decb65f3,Vanessa Mendes,Northeast,Natal,audio_video_electronics,Individual,2017-05-11
+b18791c7580856ccf7c72d22acd59873,Thiago Araújo,Central-West,Goiânia,fashion_accessories,Individual,2017-07-11
+48fa294ea8e32148c8dba7a692b72bfc,Amanda Almeida,Northeast,Natal,sports_leisure,Company,2017-07-09
+1b4b28463457a256e9a784ebe2a8f630,João Monteiro,North,Porto Velho,car_accessories,Individual,2017-10-18
+42fa4ee7240e9b8eb4576358ec142ba7,Marcos Martins,South,Curitiba,household_utilities,Enterprise,2017-04-15
+89a51f50b8095ea78d5768f34c13a76f,Vanessa Gomes,Northeast,Salvador,health_beauty,Enterprise,2017-08-05
+f9ec7093df3a7b346b7bcf7864069ca3,Patricia Pereira,Northeast,Recife,small_appliances,Enterprise,2017-07-26
+7238a95bb63ef7e498389fb863b834a1,Gabriela Mendes,North,Manaus,construction_tools_house_garden,Company,2017-10-13
+294e164108bc80d8fbf5ee39c448461c,Felipe Santos,Central-West,Cuiabá,car_accessories,Company,2017-12-26
+850913d59ce317156b00f3705f1c3edb,João Almeida,Central-West,Brasília,phone_mobile,Enterprise,2017-11-12
+e19d488f67425e5a884abb42dfa0c458,Amanda Carvalho,South,Curitiba,car_accessories,Company,2017-07-04
+e1c76f339ebd5460999f25a2aa8c92c5,Patricia Almeida,Southeast,São Paulo,small_appliances,Enterprise,2017-12-17
+72c38a04bd6a1c3dbc5298425a0db86d,Gabriela Fernandes,Central-West,Goiânia,audio_video_electronics,Company,2017-08-25
+6de5884cc604dc6798577fbf91e86836,Rafael Silva,Central-West,Goiânia,jewerly,Company,2017-02-10
+ce4f1d45100bd92470c482527f73f72d,João Pereira,North,Manaus,phone_mobile,Company,2017-05-11
+7d2d952e020034f05b4b7a7222563d89,Larissa Rocha,North,Belém,food_drink,Company,2017-08-04
+e157c96a8e7711636119c6af8e7cf85f,Camila Oliveira,North,Rio Branco,sports_leisure,Company,2017-01-26
+57df9869a600bd6b7c405f2a862eccfb,Gustavo Araújo,Southeast,São Paulo,household_utilities,Enterprise,2017-02-22
+fdde1d384dea864917f6b8f2d330986e,Larissa Costa,South,Porto Alegre,party,Enterprise,2017-03-11
+2fc89ae84d3c48eda4b268408f6ad6d7,Gabriela Almeida,Central-West,Cuiabá,watches,Company,2017-11-06
+bfee0cb1dc3d4e4a2d625daeafaa3d3e,Mariana Silva,South,Joinville,pet,Enterprise,2017-10-07
+4e480be820e37de1444325ff358c9296,Mariana Silva,North,Rio Branco,car_accessories,Enterprise,2017-04-07
+ce4755084bc097113867e6454f8f5e52,Amanda Souza,Northeast,Salvador,health_beauty,Enterprise,2017-03-12
+500b5e25308adf85bbc0bbc52c3dc05b,Gabriela Souza,Northeast,Recife,home_decor,Company,2017-11-28
+ca7c6bd577e559472af1c699de9e764e,Rodrigo Carvalho,North,Porto Velho,health_beauty,Enterprise,2017-07-19
+2866098c2a38fb723ee05f5b65635df0,Rafael Martins,Southeast,Belo Horizonte,fashion_accessories,Enterprise,2017-03-27
+767f9c7cc8d4c288b891893b61f3a2ca,André Pereira,Northeast,Salvador,food_supplement,Company,2017-02-08
+19d7a4faa5de92caef9ad5128e6b1467,Ricardo Fernandes,Northeast,Salvador,home_decor,Enterprise,2017-03-17
+3cbdc3237aa8afe44324bda4a1ccf676,Rodrigo Pereira,North,Rio Branco,car_accessories,Enterprise,2017-07-14
+d687681225767af6d214d1b3ae13f66a,Beatriz Alves,South,Joinville,food_supplement,Enterprise,2017-11-06
+13511db12ac61e2f89c53b72a944a60b,Thiago Lima,Central-West,Goiânia,car_accessories,Individual,2017-03-11
+d3dcf0604eabf0224fbd5948b5e02f69,Gustavo Fernandes,North,Manaus,music_instruments,Individual,2017-08-05
+7ade73f1b9b4e965f9009a4c3a7e2c15,Felipe Ribeiro,South,Joinville,household_utilities,Enterprise,2017-08-14
+87d3c3aeb3ead335511b3ce315eb341e,Carolina Martins,North,Rio Branco,toys,Company,2017-03-03
+9cec48faacf156410e6c576bcefdade5,Daniel Almeida,Central-West,Brasília,construction_tools_house_garden,Company,2017-01-09
+ae45df84722b1d15c5f32b23a095746c,Ricardo Martins,South,Florianópolis,health_beauty,Enterprise,2017-12-25
+cad9969167c09b48ae6f1d123f7fa68d,Amanda Souza,North,Manaus,home_decor,Company,2017-09-27
+8f014a85666ef7e6a98b99a7e136bacc,Isabela Martins,Northeast,Salvador,bags_backpacks,Enterprise,2017-04-14
+85044848b1b767db2a4a58526adef4b4,Lucas Santos,Southeast,Rio de Janeiro,phone_mobile,Company,2017-05-12
+9c1c0c36cd23c20897e473901a8fb149,Gustavo Souza,Southeast,Campinas,food_drink,Individual,2017-04-26
+ce20a2ec1514c25e16f2b5b39bc818f0,Gustavo Mendes,Central-West,Campo Grande,pet,Enterprise,2017-07-06
+2157c762d011d8bdf2097f45d80df0ef,Daniel Rodrigues,Central-West,Goiânia,health_beauty,Individual,2017-01-19
+cad10cc982ab6a391570c211b995c17c,Rodrigo Alves,Northeast,Fortaleza,pet,Individual,2017-06-23
+fe1f84058e11c26fe9582167f47c343c,Amanda Nascimento,Northeast,Fortaleza,bags_backpacks,Enterprise,2017-11-27
+b89f350d98e85cdac1137510bd7b566e,Isabela Gomes,Southeast,Rio de Janeiro,baby,Individual,2017-05-28
+f085a186e0ab15cb03a8bf46e07a8397,Pedro Pereira,South,Porto Alegre,computers,Enterprise,2017-06-27
+72bb43f9683adea77d240b7985e2dfa2,Thiago Pereira,South,Joinville,pet,Enterprise,2017-11-09
+e77e2e91d8ba596f5bce16b906255fe0,Gabriela Oliveira,North,Rio Branco,books,Enterprise,2017-02-13
+7d7d2b7a51328016102d4528c411d630,Carolina Fernandes,Central-West,Campo Grande,home_decor,Company,2017-08-11
+651530bf5c607240ccdd89a30c9c9712,Gustavo Oliveira,Central-West,Brasília,bags_backpacks,Enterprise,2017-08-21
+d8887be1427e48581e65fed5faf03bce,Daniel Alves,Northeast,Salvador,computers,Company,2017-04-14
+5670f4db5b62c43d542e1b2d56b0cf7c,Patricia Araújo,South,Joinville,health_beauty,Company,2017-06-18
+98151b0a22aa6e9ac06a7bb854fa6959,Amanda Rocha,Central-West,Goiânia,home_decor,Company,2017-11-25
+929f342384a6607afe143d789ade1316,João Martins,Southeast,São Paulo,construction_tools_house_garden,Individual,2017-02-28
+4c18691b6037662be2df78a765d98ab5,Gabriela Silva,South,Joinville,household_utilities,Company,2017-04-23
+aa2640d851ec322526f1295bbeb20092,Ricardo Nascimento,South,Florianópolis,home_decor,Individual,2017-11-12
+19d62d484cba71963c93f0f00ab42013,Rafael Costa,Northeast,Salvador,home_decor,Individual,2017-07-21
+f2c87addc7e39e1c73457c4ec85ed728,Bruno Oliveira,Northeast,Recife,bed_bath_table,Enterprise,2017-02-01
+5b0cc932433fa5184b5b94bfe6bcc256,Maria Pereira,South,Joinville,home_decor,Enterprise,2017-04-17
+252b493131fc46ee4a19fbfcbd565676,Ana Araújo,North,Manaus,computers,Individual,2017-07-23
+0502e5d79bd91b34b68cef9b3b45230c,Maria Almeida,South,Joinville,health_beauty,Company,2017-02-24
+cd2169d9f31ff6fbb9ca3373b0c9e354,Camila Fernandes,Southeast,São Paulo,audio_video_electronics,Company,2017-03-13
+9aa388272ee334b6ae07bc73706e254a,Maria Ribeiro,South,Porto Alegre,bed_bath_table,Enterprise,2017-01-20
+dc00a47754c9e2eda1f84b0bff6ee95e,Rafael Rodrigues,South,Joinville,stationery,Enterprise,2017-12-05
+1fe5540d7c1c37a595fefbacd5570d9e,Gustavo Rodrigues,North,Rio Branco,computers,Individual,2017-02-05
+dd3c4f2160ceb84483c6ef84ddc541e0,Rafael Gomes,Southeast,Campinas,handcrafted,Company,2017-03-08
+bce6a5ecf98e99fd2a8868b15c51f04b,Pedro Alves,Northeast,Salvador,watches,Enterprise,2017-10-24
+5f4ffce0fafd72596bcb09d1467981c2,Isabela Silva,Central-West,Campo Grande,health_beauty,Enterprise,2017-05-07
+902c99f1ac505c0d18778b61bcd636f7,Marcos Carvalho,Central-West,Goiânia,gifts,Company,2017-11-02
+2e7ea2aafec5835e781b21d6d1faf1f1,Mariana Souza,South,Joinville,health_beauty,Individual,2017-08-21
+b3809b8d4394588a47c8470ea331e135,Larissa Silva,Central-West,Brasília,audio_video_electronics,Company,2017-06-05
+674207551483fec113276b67b0d871ff,Rafael Alves,North,Rio Branco,household_utilities,Enterprise,2017-03-25
+63c6951772f3f4fc4e40ffd24207fd19,Ana Monteiro,North,Manaus,phone_mobile,Individual,2017-01-09
+2ec7ffe99ecc5afc2e48920c9d1fbff6,Eduardo Santos,South,Curitiba,air_conditioning,Company,2017-09-10
+455befea1bb853c75ccbca94cff26e5c,Bruno Carvalho,Central-West,Cuiabá,phone_mobile,Individual,2017-11-18
+9fbe791853dbd2e3894d85162a8ff934,Patricia Oliveira,Central-West,Goiânia,car_accessories,Company,2017-02-17
+dace965ca58120f92f8d742a9fa1864b,Felipe Araújo,South,Porto Alegre,health_beauty,Company,2017-10-21
+ea4e9ce63a2134743b4a92777437fcdd,Carolina Gomes,Southeast,Belo Horizonte,audio_video_electronics,Enterprise,2017-04-02
+19d2a3535e887b30be7081676fb1a499,Eduardo Gomes,South,Curitiba,stationery,Individual,2017-08-20
+a0ed0c00bfd64109d4ea03c97cc12486,Lucas Costa,Central-West,Brasília,home_decor,Individual,2017-01-23
+8116eb23b96c15ec02dd90632371494c,Ricardo Rocha,South,Curitiba,bags_backpacks,Company,2017-09-17
+39cd336c2436c88d88096f7ef9305026,Rafael Pereira,Northeast,Recife,home_decor,Enterprise,2017-05-24
+48e954b2da4f6a750c844173b347ed40,Camila Gomes,Southeast,São Paulo,food_drink,Company,2017-09-03
+694892adec9a8e54155c2a2e99b6bd0c,Thiago Martins,Northeast,Salvador,car_accessories,Enterprise,2017-06-02
+a0b6a15b3b776d289bb0eca2d9115eaa,Rafael Costa,North,Belém,toys,Company,2017-02-19
+f177c11663deb4c3c07af399b26f5110,Marcos Ribeiro,Southeast,Rio de Janeiro,car_accessories,Individual,2017-01-28
+abc39d62971a3ef6d4b285f65513006f,Carlos Rocha,Southeast,Rio de Janeiro,books,Company,2017-07-05
+28c7d8743fbc8679f484868cc0fcaefb,Felipe Gomes,South,Curitiba,health_beauty,Individual,2017-06-08
+b15dd2f0fabf60d00bb3bc95834fb45d,Patricia Oliveira,North,Porto Velho,construction_tools_house_garden,Enterprise,2017-06-04
+c38c6d00a783927b6a3df86ea650ed4f,Ricardo Almeida,Central-West,Brasília,audio_video_electronics,Enterprise,2017-01-13
+186cdd1b2df32caa72cfb410bba768d3,Gustavo Lima,Southeast,Campinas,household_utilities,Company,2017-06-03
+fac1a9017ade7bdc94058fc1c969f355,Ana Fernandes,Central-West,Cuiabá,computers,Individual,2017-05-19
+269c5fc9fcadee614364c3620c30a1f9,Gabriela Fernandes,Northeast,Recife,bags_backpacks,Enterprise,2017-08-25
+516e7738bd8f735ac19a010ee5450d8d,Fernanda Silva,South,Porto Alegre,health_beauty,Company,2017-01-08
+fb66238168277301f44d960416bf5c1f,Beatriz Silva,Central-West,Campo Grande,fashion_accessories,Company,2017-01-25
+8ba4b332e611171e234324cf3f9f28e3,João Rodrigues,North,Porto Velho,food_drink,Enterprise,2017-04-14
+4ac30efebddcd090914475c8201899b4,Fernanda Nascimento,North,Manaus,home_decor,Individual,2017-01-08
+5544a079319b0984ee5d3ea03ea57da2,Carolina Fernandes,Central-West,Cuiabá,computers,Company,2017-12-03
+8caafb23d9d6b7e75485fcc2bdc260e0,Larissa Pereira,Central-West,Brasília,home_appliances,Enterprise,2017-07-03
+dd27d8e77c7920dc26f5da40bf65ce73,Bruno Pereira,Central-West,Brasília,car_accessories,Individual,2017-05-09
+de83e0600df76319c24c3670ebcb2d5f,Carolina Araújo,Northeast,Natal,home_decor,Company,2017-08-09
+85182120f8a3331fcddb54f27a77dda2,Juliana Pereira,South,Curitiba,sports_leisure,Enterprise,2017-02-05
+bb219facd42c2384181e8f3330b42df9,Gabriela Martins,Southeast,Rio de Janeiro,baby,Company,2017-07-04
+788e857f317e53de488d393e65a80f45,Isabela Rodrigues,Central-West,Campo Grande,bags_backpacks,Company,2017-05-15
+a99634624f85b4f63f87bc334b846962,Maria Costa,Northeast,Salvador,home_decor,Enterprise,2017-05-27
+b8caedd58f7afe8fea08b95f272bc080,Juliana Araújo,Central-West,Brasília,car_accessories,Individual,2017-02-23
+3844ab927429de8fcb426e4886024ee9,Mariana Ribeiro,South,Florianópolis,health_beauty,Individual,2017-11-10
+c7471f493e0cf386881d09659a4a32a4,Ana Carvalho,Northeast,Recife,toys,Company,2017-09-24
+74636e24f01da9268b0ed88dacd8513e,João Martins,Central-West,Goiânia,toys,Individual,2017-03-04
+2039c5e51785b5dde7cf93ccb3b7be2c,Vanessa Almeida,Southeast,São Paulo,audio_video_electronics,Individual,2017-04-27
+bb94878eed7bad1bdd88e19f6c322f8e,André Oliveira,North,Porto Velho,audio_video_electronics,Enterprise,2017-10-09
+9ac4f14370b1e24ddc58be041b7f99df,Maria Rodrigues,Southeast,São Paulo,bags_backpacks,Enterprise,2017-08-26
+fe53fc6949a462475c07fcb57ead57ce,Renata Araújo,South,Curitiba,home_decor,Individual,2017-01-15
+a11a0e0ca67423425691db355cff69b0,Eduardo Monteiro,Southeast,Rio de Janeiro,car_accessories,Company,2017-12-13
+89757206b887aed36f3e18d858460fea,Mariana Gomes,North,Manaus,bags_backpacks,Individual,2017-06-07
+6bd503a8230299c9316fb0f726933927,Patricia Martins,South,Florianópolis,health_beauty,Individual,2017-01-20
+3903c788ded8dc03b5ebab37a2f3e9a1,Beatriz Lima,Central-West,Goiânia,household_utilities,Company,2017-07-18
+837db36e3b34fffca8725343601a74a7,Maria Nascimento,North,Manaus,food_drink,Company,2017-03-14
+62b967c1884c0e9ca8b9dba64be0b136,Beatriz Alves,South,Porto Alegre,audio_video_electronics,Individual,2017-07-26
+e58a75d874cd483e80fb3ba9aa35db51,Felipe Rocha,Northeast,Natal,health_beauty,Company,2017-10-17
+094ced053e257ae8cae57205592d6712,Patricia Costa,Northeast,Natal,health_beauty,Individual,2017-06-20
+2bee35533016f9992645dd6df0eca7e4,Renata Nascimento,South,Curitiba,home_decor,Individual,2017-08-17
+54583ab379489add547fe47b628db589,Ricardo Souza,Northeast,Recife,baby,Individual,2017-11-08
+c846aef46d0aa00378cc6c24fd7fb474,Isabela Almeida,Northeast,Salvador,household_utilities,Enterprise,2017-07-12
+c092292535a57dacd95a8765f5518f87,Pedro Monteiro,South,Porto Alegre,construction_tools_house_garden,Company,2017-12-23
+00065220becb8785e2cf78355eb9bf68,Carolina Fernandes,Northeast,Salvador,handcrafted,Enterprise,2017-10-05
+c70c1b0d8ca86052f45a432a38b73958,Vanessa Rocha,Central-West,Goiânia,health_beauty,Enterprise,2017-05-06
+8ec9a02e1c573e5ebf9133968d9b0042,Maria Santos,North,Manaus,home_office_furniture,Individual,2017-10-08
+a53f60f05f822b5c621a50ff6a5cb362,Ana Araújo,Southeast,Campinas,home_decor,Enterprise,2017-04-26
+a86bf7a9ba609d0527f10ea8f0a5446c,Carolina Costa,South,Florianópolis,sports_leisure,Company,2017-01-01
+88ef59b51bdaa941d10a853429f2b6ce,Isabela Souza,South,Porto Alegre,audio_video_electronics,Enterprise,2017-06-03
+7d81e74a4755b552267cd5e081563028,Amanda Souza,Northeast,Natal,construction_tools_house_garden,Company,2017-05-11
+9b1f656ca3060f8af17a50d8a024b533,Marcos Gomes,South,Porto Alegre,construction_tools_house_garden,Enterprise,2017-08-21
+f50d9d5fa45cba8c1a6b643987810c34,Carolina Alves,Northeast,Recife,construction_tools_house_garden,Enterprise,2017-10-26
+f3c747c1913de1af068d8feb79900063,André Monteiro,Northeast,Recife,religious,Individual,2017-07-10
+157497483bb7876340ea4441c9bd1774,Ricardo Silva,Northeast,Recife,pet,Enterprise,2017-10-13
+b031973a2fadbc89767531a45ca39e40,Ricardo Mendes,Central-West,Brasília,health_beauty,Company,2017-10-08
+0255dc67cb6bad298606136951ab1877,Eduardo Rocha,Central-West,Brasília,computers,Individual,2017-06-24
+a2d528e2abdf88afe0d245519b3b3d65,Rafael Araújo,Southeast,Rio de Janeiro,car_accessories,Individual,2017-11-03
+77a515caa36327151d1cc6c32a9f00e1,Ana Nascimento,Northeast,Natal,stationery,Individual,2017-04-23
+ba90964cff9b9e0e6f32b23b82465f7b,Patricia Souza,Southeast,Belo Horizonte,small_appliances,Enterprise,2017-01-02
+791a644d62fbd7a1fdabda6fc610bf33,Marcos Gomes,North,Rio Branco,car_accessories,Individual,2017-07-16
+df1183c2b82ee7ce304ed60ced00949c,Felipe Carvalho,North,Porto Velho,health_beauty,Individual,2017-08-26
+0ffe89723de9b21041556d02e9b21a8b,Ricardo Martins,Central-West,Goiânia,home_decor,Individual,2017-01-10
+43402bdf22aa2310e8f99e2f94f78628,Patricia Souza,Southeast,Belo Horizonte,home_office_furniture,Individual,2017-06-06
+28f10b1c5e5abb9d4857745bede6147c,Marcos Oliveira,North,Belém,audio_video_electronics,Enterprise,2017-02-11
+414cc02d780baaa13439c37bd89641ef,Carolina Silva,Central-West,Cuiabá,car_accessories,Company,2017-11-06
+1961c3e1272bfeceb05d0b78b5bbfdaf,Ricardo Santos,Central-West,Cuiabá,games_consoles,Individual,2017-06-07
+68175a6b26cdbc4b3a51ed5353276e4d,Carolina Alves,South,Joinville,home_office_furniture,Enterprise,2017-12-18
+7adbd3210a7b3cc2235e225eef33574d,Lucas Almeida,Northeast,Fortaleza,household_utilities,Individual,2017-01-13
+0b9164d3b23215d4dfee8a045a3a1b3d,Fernanda Santos,Central-West,Cuiabá,home_decor,Company,2017-01-14
+7c7d0dee362960b1d9b01fe7284e19ba,Vanessa Mendes,Southeast,Belo Horizonte,home_decor,Company,2017-04-04
+9f716fbca2fbec913c646e6c60f25b60,Ricardo Lima,Southeast,Rio de Janeiro,health_beauty,Individual,2017-08-28
+b8cb8fd0484ee4f796b41e363dcd303d,Daniel Carvalho,Southeast,Belo Horizonte,computers,Company,2017-08-22
+33cbbec1e7e1044aaf11d152172c776f,Beatriz Alves,Northeast,Salvador,household_utilities,Company,2017-03-12
+d82168bc00226dc72728bc957d2539bc,Ricardo Martins,North,Porto Velho,handcrafted,Individual,2017-05-15
+97e50a621f8e801f4baf69e08687c192,Pedro Nascimento,North,Porto Velho,toys,Enterprise,2017-01-05
+f0ec78809fe0bc3edb11c9fe5b97b059,André Fernandes,Southeast,São Paulo,household_utilities,Enterprise,2017-07-25
+6ebf4eceee4dd9847201c82e77ef8123,Felipe Santos,Central-West,Goiânia,health_beauty,Company,2017-09-14
+02df983480ff75ead8a031a3c7a849ad,Amanda Almeida,Central-West,Cuiabá,phone_mobile,Company,2017-05-03
+594f9aaa48e5bf431f011ddc5669b0d5,Larissa Monteiro,North,Manaus,bags_backpacks,Enterprise,2017-10-22
+4675c38ffdf3a0c9e9665f629c5c713b,João Martins,Central-West,Goiânia,home_decor,Individual,2017-03-07
+fb6e76ca64c0cc2c2dee53219e685f4b,Carlos Gomes,South,Porto Alegre,games_consoles,Individual,2017-11-14
+e504a4e2efaa45cbff7e268a2c58c956,Vanessa Mendes,South,Porto Alegre,home_decor,Company,2017-06-24
+6b90f847357d8981edd79a1eb1bf0acb,Mariana Alves,Southeast,São Paulo,construction_tools_house_garden,Company,2017-09-11
+eaeec4fdcdc91ead735718ae9bebcd8e,Eduardo Silva,Northeast,Natal,health_beauty,Enterprise,2017-10-19
+5a4236931428800e9d9cc04af0987118,João Gomes,Central-West,Cuiabá,household_utilities,Individual,2017-03-19
+9e96cf88816c531ac19a680a2fdb78a7,Eduardo Souza,Central-West,Brasília,home_office_furniture,Enterprise,2017-02-26
+603bb4eeb3f0927e59e253357a9ca06b,Renata Gomes,Northeast,Fortaleza,handcrafted,Company,2017-07-21
+5e7730e8ae6bffdee755a8d31e6b77a4,Carlos Costa,North,Rio Branco,small_appliances,Company,2017-07-05
+2c2c9832d1bb38c5b0034a3b47d313ee,Carlos Carvalho,Central-West,Cuiabá,health_beauty,Company,2017-12-08
+25ca84afdd32ede184dba55631c55274,Eduardo Nascimento,Southeast,Campinas,computers,Company,2017-01-11
+08220245c361752c4f7bdc9a39821dbe,Patricia Rocha,Northeast,Fortaleza,car_accessories,Enterprise,2017-11-04
+d622a61456dcbf4cc960221e15ac48b7,Lucas Martins,South,Porto Alegre,baby,Company,2017-05-24
+34fe2ce0770697c1b8b35c13a8e2f7d4,Juliana Martins,North,Manaus,watches,Individual,2017-07-24
+1832c08bba48a37868d4093259e8c288,Vanessa Santos,North,Porto Velho,home_decor,Enterprise,2017-03-03
+d63f306de130e0391d38a792541723b8,Fernanda Ribeiro,Northeast,Natal,car_accessories,Enterprise,2017-01-06
+49388b546c8a96b96e9f15b5980b1cd7,Vanessa Santos,South,Porto Alegre,bed_bath_table,Individual,2017-01-15
+596849622429351f47b32e6cae1055ff,Carolina Rodrigues,Southeast,Belo Horizonte,phone_mobile,Company,2017-06-27
+9140ef75cc8211c4035935e80e567204,Beatriz Souza,North,Rio Branco,pet,Enterprise,2017-01-08
+7dd3be74c6cd6800d809935ff47bd3bf,Rodrigo Martins,Northeast,Natal,health_beauty,Individual,2017-08-19
+5fff4dd813a9fe1ce972a80407e16457,Rafael Costa,Central-West,Campo Grande,home_decor,Company,2017-12-27
+465b4d6f3d04fac8957c6017541df171,Ana Carvalho,Southeast,Belo Horizonte,health_beauty,Individual,2017-03-28
+7614a7c196be837b0eba0a3811e51b29,Gustavo Almeida,Central-West,Goiânia,bed_bath_table,Enterprise,2017-04-22
+63972c86dd9a38da4f3d8b5ccec2ee60,Beatriz Gomes,South,Florianópolis,jewerly,Enterprise,2017-01-28
+493a261e134421b6d9d997900fa56a5f,Eduardo Pereira,Southeast,Campinas,construction_tools_house_garden,Enterprise,2017-03-20
+8ff95b78fd27130aef0a3b68b7124c51,Patricia Mendes,Southeast,Rio de Janeiro,party,Company,2017-12-23
+985c92cc412091f8529c12d7f23d3fef,Renata Carvalho,Northeast,Natal,health_beauty,Company,2017-08-09
+76e8c36299440e255379b5fa7f03f272,Lucas Ribeiro,South,Joinville,food_drink,Enterprise,2017-07-19
+26677ff8d8321b864317019c728ac010,Larissa Fernandes,Southeast,São Paulo,construction_tools_house_garden,Enterprise,2017-11-20
+c7bb64409aa480bb7d0335faaaf3d242,Lucas Souza,Central-West,Campo Grande,car_accessories,Company,2017-02-11
+1e26c56af8d48424e1df0140a2401f83,Gustavo Nascimento,Northeast,Fortaleza,construction_tools_house_garden,Company,2017-11-23
+8c818d927ba4145304edccf74293f8b6,Fernanda Ribeiro,Northeast,Recife,household_utilities,Individual,2017-01-26
+daf565f087a52def0fd5c5825b3661bc,André Araújo,Central-West,Cuiabá,home_decor,Enterprise,2017-03-24
+7ee00840eff17f731c41f35b12184c96,Lucas Nascimento,Southeast,Campinas,computers,Company,2017-07-13
+9c7fd21e0aa159b20da593371f08ff7c,Camila Almeida,Southeast,Rio de Janeiro,audio_video_electronics,Enterprise,2017-09-21
+f002671b6ff4042e52a52aaccba44c0e,Larissa Lima,North,Porto Velho,handcrafted,Individual,2017-11-18
+cb141ec6f444a4cb7a2400aaf80b6fc3,João Rocha,South,Florianópolis,health_beauty,Individual,2017-12-09
+508808d438fe2ff972ed13bb8f4a82e2,André Araújo,Central-West,Goiânia,home_decor,Enterprise,2017-02-08
+5084f696554075b9a98403b769f31cd5,Marcos Lima,Northeast,Recife,home_decor,Company,2017-06-12
+246eefbebdc0c11402ec404e1589de43,Gabriela Souza,Northeast,Fortaleza,health_beauty,Company,2017-01-28
+41da412d33e8da4f22baf55cb1bde82c,Thiago Rodrigues,Central-West,Brasília,food_supplement,Enterprise,2017-02-28
+8c4e430c5e662c328d3c84d334871709,Bruno Santos,North,Porto Velho,pet,Individual,2017-03-07
+cfe94489ddd337d1e29e12f2a7205d10,Amanda Martins,Northeast,Natal,construction_tools_house_garden,Individual,2017-06-28
+c611f4ce9ce875bcc063fa97fd4d7d12,Thiago Araújo,South,Curitiba,construction_tools_house_garden,Enterprise,2017-03-11
+376643e536ea9ab265065925112a876a,Gabriela Nascimento,Southeast,São Paulo,household_utilities,Individual,2017-03-19
+b28c0625f1f26655cfa0f370be1164ac,Daniel Oliveira,South,Joinville,food_supplement,Individual,2017-10-14
+196964603e568f36848694f9274a2acd,Bruno Rocha,North,Rio Branco,music_instruments,Company,2017-01-02
+189ca3538ce9f920cacf0f982cbe223b,Marcos Fernandes,Central-West,Goiânia,stationery,Individual,2017-06-25
+7877194d40c496d36a88ae5957c5e7d1,Ana Silva,Central-West,Goiânia,car_accessories,Enterprise,2017-12-08
+9ffca1681e7428db3d75eb4b69ee9599,Lucas Pereira,South,Florianópolis,health_beauty,Individual,2017-07-17
+382229d1e840115ffe3dbf5ff460e417,Ricardo Oliveira,Central-West,Campo Grande,household_utilities,Individual,2017-05-10
+5bc24d989e71e93c33e50a7782431b0e,Bruno Pereira,North,Porto Velho,car_accessories,Company,2017-08-12
+5e063e85d44b0f5c3e6ec3131103a57e,Eduardo Carvalho,South,Porto Alegre,health_beauty,Individual,2017-04-08
+164471825a8de8c31eb8cb9375b27243,Marcos Silva,South,Porto Alegre,computers,Enterprise,2017-09-06
+bd585fa4d871cd7600ec8a2b90c57a4e,Carolina Santos,Southeast,Belo Horizonte,car_accessories,Company,2017-11-09
+698f5fa55a5f73d0740e9d9a773e8093,Rodrigo Santos,Central-West,Brasília,health_beauty,Enterprise,2017-02-21
+0f5f7caa3e6a2b466fabe6bfaf25b06b,Carolina Souza,Southeast,São Paulo,audio_video_electronics,Company,2017-08-13
+e1dc0754bada9ee4cfe9713f22f61292,Thiago Pereira,Southeast,Belo Horizonte,toys,Individual,2017-12-22
+e58a5b390e28abc0b216cfb0e07d27d7,Bruno Souza,Southeast,Belo Horizonte,bags_backpacks,Enterprise,2017-09-09
+588e81a6924bcffd4e366453885e72b1,Bruno Souza,Central-West,Goiânia,audio_video_electronics,Enterprise,2017-12-20
+aae5e7b457a3c72ee230a47d98fceda5,João Souza,Southeast,Belo Horizonte,bed_bath_table,Company,2017-04-20
+dfa0c4c6229ab200a4a1336b4d7128ff,Vanessa Ribeiro,South,Florianópolis,home_decor,Individual,2017-06-23
+a31ed365258882cc2a1e25d6710704ea,Ricardo Santos,North,Porto Velho,audio_video_electronics,Enterprise,2017-08-07
+53088c75f948b48a7ece173ac17f0c12,Pedro Silva,North,Porto Velho,health_beauty,Individual,2017-11-03
+eada4a0629faf243de4159916c10cd1a,Fernanda Oliveira,Southeast,Campinas,health_beauty,Enterprise,2017-02-24
+0c1d290fe8e252b31ebc2ead30634efc,Beatriz Almeida,Southeast,Belo Horizonte,health_beauty,Company,2017-05-09
+c33e6d3ad32fd5bec1b0f2522f668213,João Costa,North,Manaus,other,Individual,2017-05-12
+fd5564b7d093f9d64d1a5f223dfe43bc,Marcos Souza,Northeast,Natal,car_accessories,Individual,2017-01-01
+2e311c110b108aece4a48ab7165f28b3,Camila Fernandes,South,Porto Alegre,household_utilities,Company,2017-10-09
+da43bc6766501a2ad1aba35b09b7c9ac,Vanessa Araújo,Southeast,Belo Horizonte,watches,Individual,2017-02-13
+4a4da369ad50f14d48337aa52eb826f5,Patricia Carvalho,North,Rio Branco,health_beauty,Enterprise,2017-08-26
+05e107217c7266362fd44b75b2cd4cc4,João Pereira,North,Belém,stationery,Enterprise,2017-12-02
+7f49fc7a8336278ab1287ed28d565258,Bruno Monteiro,South,Curitiba,food_supplement,Company,2017-10-22
+c510bc1718f0f2961eaa42a23330681a,Rodrigo Carvalho,North,Belém,baby,Company,2017-10-01
+ae1e6f638fc33a9cdbc2871bf60c6635,Eduardo Rocha,South,Joinville,home_decor,Individual,2017-07-15
+4c1c7281388a33dd06daac44f9fadbd1,Patricia Araújo,Southeast,São Paulo,stationery,Individual,2017-12-28
+85ecf03781da592876b7844acc1b729f,André Araújo,Central-West,Goiânia,health_beauty,Enterprise,2017-09-23
+968268a686aa05d1f529fb07dff08130,Bruno Almeida,Central-West,Brasília,stationery,Company,2017-06-22
+ae0728a2cb289dec6d1ceb0b7d6b82c5,Vanessa Alves,North,Belém,health_beauty,Enterprise,2017-01-01
+8cd5c90bb5fe7f2d779c81bfd6d9ffcf,Gustavo Rocha,South,Joinville,health_beauty,Individual,2017-02-25
+2d2f1c1a4f518137df3e4d8d5f57beae,Pedro Araújo,North,Porto Velho,health_beauty,Company,2017-01-17
+106ebccfb024488d2dd7aac29c9a20a3,Mariana Almeida,South,Joinville,computers,Individual,2017-08-15
+e250d617a0ad591ba9bd663e584a895d,Maria Rocha,Central-West,Cuiabá,home_decor,Company,2017-06-04
+1ab0c07336fcfada1d031cf1c9718ca7,João Carvalho,North,Manaus,health_beauty,Company,2017-01-18
+53be10ff134691e94a4089b41c75874f,Vanessa Oliveira,Central-West,Brasília,construction_tools_house_garden,Enterprise,2017-10-21
+aa3d06427142ec11df8f7df0e159b71a,Beatriz Martins,Northeast,Recife,household_utilities,Company,2017-06-27
+50ca38cf4312fde2e0d35f6169208b54,Gustavo Martins,Southeast,Rio de Janeiro,home_decor,Company,2017-09-25
+7c51de0ab286204ce75ff42bf7c10d92,Carolina Fernandes,Central-West,Cuiabá,food_supplement,Enterprise,2017-08-04
+6a53b90c3ad9e0b56d9fe5c69165fff5,Ana Araújo,Southeast,Rio de Janeiro,fashion_accessories,Company,2017-11-26
+e10575e8e45d5d8cedfc60d838ac286b,Carolina Souza,Northeast,Fortaleza,gifts,Individual,2017-03-16
+11742f81550ac064cc9a40f67151d9ad,João Nascimento,South,Joinville,home_appliances,Enterprise,2017-04-07
+429e2324ee8c0a95b565f78b465e8a07,Juliana Martins,Southeast,Campinas,fashion_accessories,Individual,2017-12-11
+e94b64dc6979b302a5a5be1662c83bb6,Carlos Monteiro,Southeast,Campinas,home_decor,Individual,2017-08-15
+52c53edae0e04256ecf6c407608e7e09,Thiago Silva,Central-West,Goiânia,stationery,Enterprise,2017-12-02
+45a9bd664803609f452cce925e21d24d,Vanessa Monteiro,Central-West,Cuiabá,car_accessories,Company,2017-09-25
+1444c08e64d55fb3c25f0f09c07ffcf2,Marcos Pereira,South,Porto Alegre,car_accessories,Individual,2017-07-22
+99d4602ff2c719a03c6d8df853ebedf8,Larissa Carvalho,Central-West,Campo Grande,household_utilities,Company,2017-10-23
+d449188091598bf0dbd32c312570f168,Mariana Araújo,South,Florianópolis,audio_video_electronics,Company,2017-08-26
+a267686cbbbfe674d0834d3ad95df5bb,Bruno Mendes,South,Porto Alegre,health_beauty,Enterprise,2017-12-17
+9f15313cc96cd611d45e63eab4170bf1,Carolina Alves,Northeast,Fortaleza,car_accessories,Enterprise,2017-04-07
+a1617fea9bff799a4d5b3db7a7baa713,André Fernandes,South,Florianópolis,audio_video_electronics,Enterprise,2017-03-23
+5f57db27027655e6c6a391601daa0258,Carolina Souza,South,Florianópolis,household_utilities,Company,2017-09-16
+eb9267cccc90f1b49c8d2f9887c7dd97,André Alves,Central-West,Cuiabá,sports_leisure,Company,2017-07-26
+abbc2aa191ecd8fbb5be1701d7bb6ef4,Ana Carvalho,Southeast,São Paulo,sports_leisure,Individual,2017-01-22
+ce616e1913288884e7742faac9d981db,Patricia Costa,Southeast,Rio de Janeiro,construction_tools_house_garden,Company,2017-11-09
+65b6aa01895e9ddce79b482da06dda9d,Carolina Lima,South,Curitiba,toys,Individual,2017-09-02
+8ed21f7ffec3a30e915d8e85eb3c4f72,João Mendes,Northeast,Natal,bed_bath_table,Enterprise,2017-12-18
+6a87cbc1ebb8046bb3a851059feb6df3,Pedro Ribeiro,South,Joinville,home_decor,Enterprise,2017-05-23
+88cf19ec1fc2c58f161aee259d57142c,Mariana Gomes,Southeast,Campinas,household_utilities,Enterprise,2017-06-18
+1c16af6213cf83914774c6490065da81,Marcos Nascimento,Southeast,São Paulo,bed_bath_table,Individual,2017-10-28
+0b1ca3ef18a63d7eb0c8897fa0849c08,Eduardo Fernandes,North,Belém,health_beauty,Enterprise,2017-09-24
+f3c38ab652836d21de61fb8314b69182,Isabela Rodrigues,Central-West,Goiânia,computers,Company,2017-08-06
+d598f929fc44e1e38678e7f47250ec04,Ricardo Ribeiro,Southeast,Rio de Janeiro,car_accessories,Individual,2017-07-02
+f1fd6779d8d9afe83f4135a22903f22b,Felipe Nascimento,North,Porto Velho,pet,Individual,2017-03-19
+36637850ddda5031f5bcf5499dd955a3,Camila Martins,Northeast,Salvador,household_utilities,Enterprise,2017-03-02
+134c69b4dff67e40a022dd8bf81e002e,Rodrigo Santos,South,Florianópolis,construction_tools_house_garden,Enterprise,2017-10-27
+34f563c82a85b99ae9e6d60db5fc2e28,Daniel Monteiro,Northeast,Natal,audio_video_electronics,Enterprise,2017-06-03
+a7a9b880c49781da66651ccf4ba9ac38,Ricardo Ribeiro,Northeast,Recife,bed_bath_table,Individual,2017-09-06
+bf1f3d5402ed867f05bed505a3b2a05a,Maria Fernandes,North,Rio Branco,sports_leisure,Individual,2017-04-22
+ba87e2cbb33c1412290b8ccc37301672,Rafael Lima,Northeast,Fortaleza,food_drink,Individual,2017-10-17
+28872dc528e978a639754bc8c2ce5a4c,João Fernandes,North,Manaus,household_utilities,Company,2017-04-21
+758fbe94c656fc484d204e7d60808484,Carlos Araújo,Central-West,Goiânia,construction_tools_house_garden,Company,2017-02-13
+64c9a1db4e73e19aaafd3286dc448c96,Ana Ribeiro,Northeast,Fortaleza,household_utilities,Company,2017-09-26
+271c58a1d139c45eaf3316107c6d3a3b,Thiago Santos,Central-West,Cuiabá,bags_backpacks,Company,2017-11-07
+6548c2550b6e2d8f18053216e1c7b6f3,João Costa,Northeast,Salvador,household_utilities,Enterprise,2017-09-01
+41b14765bd56c8ad10971074380f9c0c,André Rodrigues,Southeast,Rio de Janeiro,computers,Enterprise,2017-07-27
+85222e25007ce95bf79c00f643d1e436,Felipe Gomes,Southeast,Rio de Janeiro,health_beauty,Enterprise,2017-02-24
+6eeed17989b0ae47c9f11ece6f38ea90,Gabriela Araújo,South,Curitiba,car_accessories,Individual,2017-02-03
+e5d7bbbca541b3b39e1649f94074b963,Daniel Nascimento,Southeast,Rio de Janeiro,health_beauty,Enterprise,2017-02-19
+843c73eda46e28b278031033b616bc8e,Bruno Carvalho,South,Florianópolis,home_decor,Company,2017-11-13
+876300c1c122f7fafd3ba74a478221f4,Ana Carvalho,North,Porto Velho,audio_video_electronics,Enterprise,2017-02-18
+8f28d70a98ca556691300d08ebdddc88,Isabela Monteiro,Southeast,São Paulo,home_decor,Individual,2017-12-28
+99cd94252748d2bdde08e17858233602,Eduardo Ribeiro,Southeast,Belo Horizonte,pet,Individual,2017-05-26
+6f83d9e4da896daae20b9b6b2d3ff8d2,Lucas Martins,Northeast,Salvador,household_utilities,Company,2017-07-27
+e6341a38a2e15b8834ac0410015547e4,Ricardo Alves,Southeast,Campinas,health_beauty,Individual,2017-03-24
+0b7589387392dd2e2458f86606aa2a99,Beatriz Pereira,North,Porto Velho,car_accessories,Company,2017-11-26
+dc50afafdfa325eadc890c7fa42a8f4e,Felipe Alves,Northeast,Salvador,audio_video_electronics,Individual,2017-02-02
+75e645bd511287258a5afc20acd4e338,Felipe Alves,Southeast,Campinas,bags_backpacks,Individual,2017-05-07
+af3ef48d0e13835e529c29ac573c63e5,Bruno Ribeiro,Northeast,Recife,pet,Individual,2017-03-06
+535bf14f36346c7f59d87cece104d70c,Juliana Souza,South,Florianópolis,home_decor,Individual,2017-11-26
+7e165d0fd266781dbf944faf150e265b,Gustavo Alves,Central-West,Brasília,home_decor,Company,2017-11-18
+da3b4c4b11a5be0f29634d1e6bb7dce0,André Oliveira,Southeast,Belo Horizonte,health_beauty,Company,2017-02-07
+5dc203c7b84a0e71e878a179de05fb9a,Camila Fernandes,Central-West,Cuiabá,construction_tools_house_garden,Individual,2017-11-21
+710b15ab273348b3db04d636937061c3,Lucas Mendes,South,Curitiba,household_utilities,Individual,2017-04-11
+88cd3681e0a2ba85e190f7d817629c4c,Camila Mendes,North,Rio Branco,car_accessories,Enterprise,2017-05-23
+b586cd24c010a13916af621b0325fbba,Amanda Monteiro,Central-West,Goiânia,home_decor,Company,2017-06-14
+fe3d2c21fe1b15298d60a0792621ddf8,Camila Almeida,South,Curitiba,car_accessories,Individual,2017-12-24
+6836558ca75302628900564ce7c67cf9,Vanessa Fernandes,North,Porto Velho,fashion_accessories,Individual,2017-11-24
+7c8a7bb451a5a4e8813352670a8b9a22,Gabriela Martins,Northeast,Natal,household_utilities,Company,2017-05-16
+df6a52d41f39ce14aa6df3af06e98e71,Ricardo Mendes,Central-West,Brasília,health_beauty,Individual,2017-05-28
+6cbd0872de0e3e92a1b90f229aac6e61,Patricia Oliveira,South,Porto Alegre,home_decor,Enterprise,2017-02-01
+d566c37fa119d5e66c4e9052e83ee4ea,Vanessa Monteiro,Central-West,Brasília,sports_leisure,Enterprise,2017-07-25
+e116c7455dd26a4d8c3e92532583905f,Eduardo Santos,Central-West,Goiânia,health_beauty,Enterprise,2017-05-18
+611aa09794938387efe774f5abf64c03,Beatriz Pereira,Central-West,Cuiabá,home_decor,Company,2017-07-08
+bf00385a5f7fc1ef39a13c2e9ee50a5f,Fernanda Martins,Central-West,Campo Grande,audio_video_electronics,Enterprise,2017-09-03
+27bcbf1bcae4a9c14c54627933160f37,Larissa Silva,North,Porto Velho,home_decor,Enterprise,2017-04-28
+dbc7e4c98a58fa8731412f4da2f43cb4,Isabela Ribeiro,Central-West,Goiânia,household_utilities,Individual,2017-08-06
+7aa286758114fcd93df587a1e23301ed,Marcos Rocha,South,Porto Alegre,handcrafted,Company,2017-01-08
+818d9691c76fabaf6b491f6a9baefad9,Maria Nascimento,North,Belém,home_decor,Company,2017-04-02
+a46cc8988e2dc21616cc0b2cec80be4b,Mariana Rocha,South,Florianópolis,construction_tools_house_garden,Company,2017-01-02
+bb2eca0468c9088bd9a146c8d6c72e0b,Carolina Ribeiro,Northeast,Salvador,construction_tools_house_garden,Enterprise,2017-05-27
+623ad9d0c1e14bb5464a8c72bff7b4af,Mariana Carvalho,Northeast,Recife,household_utilities,Company,2017-10-21
+639541c9c4a8a5b34424cac6f81f6be7,Mariana Almeida,Southeast,Belo Horizonte,phone_mobile,Enterprise,2017-07-12
+649d307ba392e2cc6cedc7888f51923d,Daniel Rocha,Northeast,Natal,car_accessories,Enterprise,2017-01-17
+fadb07c842a2aef5d5a676b85f220e71,Ricardo Almeida,South,Joinville,sports_leisure,Individual,2017-09-21
+3786da2e9afd5d55617521bd1685dec0,Fernanda Costa,Northeast,Recife,toys,Individual,2017-06-20
+b7bff8fe73a12a5e844c7d83ee1202ff,Bruno Araújo,Southeast,Rio de Janeiro,small_appliances,Enterprise,2017-02-16
+09175f552e7526624e8100bdc8d0c92d,Juliana Monteiro,North,Rio Branco,food_drink,Individual,2017-11-27
+a64e44665225d19dfc0277eeeaaccc57,Pedro Santos,North,Manaus,food_supplement,Individual,2017-10-19
+6b3bd31ad8fcda4b2635ec9f3ff2ecdf,Beatriz Ribeiro,South,Porto Alegre,food_supplement,Individual,2017-10-05
+a84e05448dd8286412b96fddf603db26,Patricia Costa,Southeast,Rio de Janeiro,sports_leisure,Enterprise,2017-07-20
+213fafb0ca06fb3d5886579c2565791b,Renata Lima,Central-West,Brasília,audio_video_electronics,Individual,2017-04-15
+2a17b229ca84523393b003b7e0bfae63,Gustavo Rocha,Central-West,Cuiabá,toys,Individual,2017-04-27
+e0a3c37054ade6478d923a6efc10f308,Daniel Monteiro,North,Belém,baby,Individual,2017-10-22
+8fb67a334bacec338885b4e9e1708073,Ricardo Araújo,Central-West,Campo Grande,home_decor,Company,2017-10-19
+4a23adac87cf538689fa600d976f78b2,Mariana Carvalho,Southeast,Rio de Janeiro,health_beauty,Individual,2017-02-01
+76ea5315acb3f5f7ade3cd261faf922a,Vanessa Pereira,South,Joinville,car_accessories,Enterprise,2017-02-06
+741eb1606348f827baeb4c099fcf1bdd,Renata Alves,North,Manaus,food_supplement,Enterprise,2017-02-03
+f88adb15807168d3c43d71021090ce4a,Renata Mendes,North,Belém,gifts,Enterprise,2017-01-25
+a359ed4a476430e29909d1415ecacb1d,Rafael Santos,North,Rio Branco,home_decor,Enterprise,2017-09-14
+54c04bdb5ec46762f8f08c7e8f86ed4a,Daniel Carvalho,South,Joinville,food_supplement,Company,2017-10-26
+8476243f92442881ddd5b578975cf115,Bruno Pereira,Central-West,Brasília,audio_video_electronics,Company,2017-08-25
+09bad886111255c5b5030314fc7f1a4a,Lucas Mendes,South,Curitiba,handcrafted,Enterprise,2017-07-09
+8b286dd43c391bc2d763668067eca963,Carolina Silva,South,Curitiba,food_supplement,Enterprise,2017-09-04
+07a9a154056e210f17bbacd5e30c024c,Mariana Rodrigues,Central-West,Brasília,bed_bath_table,Enterprise,2017-06-14
+f0418a194da21de7cd01336b10be11a7,Fernanda Gomes,Northeast,Salvador,construction_tools_house_garden,Enterprise,2017-10-09
+fcc29f9f37cfd89db0038d8de7f97f08,Amanda Fernandes,Northeast,Natal,sports_leisure,Enterprise,2017-05-22
+01266d4c46afa519678d16a8b683d325,Bruno Alves,North,Belém,construction_tools_house_garden,Enterprise,2017-08-06
+297be0a3c196d803e4e4f013432be4e1,Patricia Lima,Northeast,Natal,home_decor,Enterprise,2017-06-25
+9ba337a47628f9761b6bb3939a3f97a9,Gustavo Souza,North,Belém,home_decor,Enterprise,2017-04-15
+1a47a5831effd926ad6bee7ab8beb86c,Juliana Ribeiro,South,Curitiba,home_decor,Company,2017-06-26
+1cd757f0f38c0847a2f05717d18b8d92,Ricardo Carvalho,Central-West,Brasília,computers,Enterprise,2017-01-26
+9cf787a239c1aa29dbd76f153dc13f9a,Thiago Mendes,Southeast,Rio de Janeiro,fashion_accessories,Company,2017-02-03
+1a932caad4f9d804097d7f8e615baed1,Rafael Oliveira,Northeast,Recife,construction_tools_house_garden,Enterprise,2017-01-24
+b2d462f41b6b46b0569b20a8a4ebfcae,Rodrigo Ribeiro,North,Rio Branco,health_beauty,Company,2017-12-20
+7e1f0755f1c75e301dfa37c21fd01efe,Beatriz Rocha,Southeast,Rio de Janeiro,other,Company,2017-01-07
+ae9cf62cf691b753d4f0d3d40731cc3c,Juliana Santos,Central-West,Campo Grande,health_beauty,Enterprise,2017-09-17
+0cab2da43793a6f3c5ed8514c5f54627,André Santos,South,Porto Alegre,bags_backpacks,Company,2017-04-21
+0d7d5bca59d45d750fb7913b974e9d08,Maria Nascimento,Southeast,Rio de Janeiro,construction_tools_house_garden,Company,2017-06-22
+708cc2c4ffdd3307d5cdee0d7387307b,Amanda Rodrigues,North,Rio Branco,audio_video_electronics,Enterprise,2017-01-24
+7210cd29727d674c00741e5e387b3ccd,Felipe Lima,Southeast,São Paulo,car_accessories,Enterprise,2017-09-19
+05a48cc8859962767935ab9087417fbb,Vanessa Nascimento,Northeast,Fortaleza,fashion_accessories,Individual,2017-10-07
+c65fb4ec11e8d18c95ef150885418aea,Amanda Silva,North,Rio Branco,household_utilities,Company,2017-03-14
+3ffabd7292c755d5cebe5b2d6350b850,Felipe Oliveira,Central-West,Brasília,phone_mobile,Enterprise,2017-05-11
+9d681c7e12db302cb261e721040dde65,Renata Alves,Southeast,Belo Horizonte,sports_leisure,Enterprise,2017-05-23
+d984b175957d0e67bc5bf232285ac792,Amanda Rocha,North,Rio Branco,books,Individual,2017-06-25
+f4d969837a2957bb052a71af7d39fc91,Renata Monteiro,North,Rio Branco,bed_bath_table,Individual,2017-08-04
+f1340f6d3347d9fae747fc3d236a2e41,Mariana Almeida,Northeast,Salvador,car_accessories,Enterprise,2017-12-08
+4eeb99008a0f59d2c7759c59f9a346eb,Rafael Ribeiro,Northeast,Natal,audio_video_electronics,Enterprise,2017-01-23
+c013e57c075a06e5b5c48ee03c525719,Lucas Oliveira,Northeast,Recife,pet,Company,2017-11-24
+b9ec22de23f18567de0e09d776ca0309,Felipe Costa,Northeast,Salvador,stationery,Company,2017-06-12
+f46490624488d3ff7ce78613913a7711,Ricardo Rodrigues,South,Florianópolis,health_beauty,Company,2017-12-07
+7bfe1c6d7a61cccc48bbbebe206390a9,Gustavo Nascimento,South,Porto Alegre,household_utilities,Individual,2017-04-07
+a9f81449e8f8a47f6c67e5a43b40ed04,Fernanda Souza,South,Florianópolis,food_drink,Individual,2017-02-22
+7c9130f5f3729edd32aa059141d92484,Isabela Alves,North,Manaus,computers,Individual,2017-08-12
+2a1a7b9bb186aba4e126ec76f9607237,Thiago Monteiro,Central-West,Campo Grande,computers,Company,2017-08-06
+eeb3e4d4f423780ab2acfe23ea0d5e49,Mariana Almeida,Central-West,Campo Grande,food_supplement,Enterprise,2017-03-02
+b6392ab5fdb153fb3c6c7c0e174cdc29,Thiago Alves,Central-West,Cuiabá,audio_video_electronics,Individual,2017-09-12
+33dd941c27854f7625b968cc6195a552,Gabriela Souza,North,Belém,household_utilities,Enterprise,2017-09-15
+c70a353f02429c00775a46a75fb787da,Ana Rodrigues,Northeast,Salvador,health_beauty,Company,2017-10-04
+4fe2f67634d00c021aa01f96b6f2d68e,Rodrigo Nascimento,Northeast,Fortaleza,food_supplement,Individual,2017-09-09
+b21768cfefb49b94e9bcd38037e93d1f,Thiago Mendes,South,Florianópolis,car_accessories,Company,2017-06-06
+bfcc27719640628da877db48b672b169,Juliana Gomes,North,Rio Branco,home_decor,Enterprise,2017-06-12
+4a82eab98441aeb64566e2776c1fb2b6,Gabriela Costa,North,Porto Velho,construction_tools_house_garden,Enterprise,2017-03-19
+55031883943971ca22db6894574cfe2c,Marcos Nascimento,South,Curitiba,computers,Individual,2017-09-14
+c0e933c238e41f0cd459d6025ee9b364,Fernanda Pereira,North,Belém,pet,Company,2017-01-06
+1bba9c94eb5c4e82fba9f7286fe81025,Fernanda Ribeiro,North,Rio Branco,household_utilities,Enterprise,2017-12-11
